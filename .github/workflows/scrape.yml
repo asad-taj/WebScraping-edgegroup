@@ -1,0 +1,76 @@
+name: Scrape edgegroup.ae
+
+on:
+  schedule:
+    # 04:00 UTC on the 1st of every month
+    - cron: "0 4 1 * *"
+  workflow_dispatch:
+    inputs:
+      sections:
+        description: "Sections to scrape (comma-separated)"
+        default: "products,entities,news,partnerships,group"
+        required: false
+      limit:
+        description: "Max detail pages per section (empty = all)"
+        default: ""
+        required: false
+      download_images:
+        description: "Download image files"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: |
+          ARGS="--sections ${{ github.event.inputs.sections || 'products,entities,news,partnerships,group' }}"
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"
+          fi
+          if [ "${{ github.event.inputs.download_images }}" = "false" ]; then
+            ARGS="$ARGS --no-images"
+          fi
+          python -m scraper.run $ARGS
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore(data): scheduled scrape $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Upload data artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: edgegroup-data
+          path: |
+            data/edgegroup.db
+            data/json
+          retention-days: 90
