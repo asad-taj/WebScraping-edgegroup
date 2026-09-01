@@ -118,7 +118,7 @@
     "slug": "e-vendor",
     "name": "EDGE CORPORATE E-VENDOR PORTAL",
     "cluster": "",
-    "description": "Gain access to purchase order collaboration, procurement reporting and direct communication with our buyers, register as an approved supplier to get started.",
+    "description": "Gain access to purchase order collaboration, procurement reporting and direct communication with our buyers, register as an approved supplier to get.",
     "website": "",
     "product_urls": [],
     "images": [
@@ -148,17 +148,17 @@
       "page_title": "Edge Corporate E-Vendor Portal | Supplier Management Portal",
       "title": "E-Vendor",
       "type": "Article",
-      "description": "Gain access to purchase order collaboration, procurement reporting and direct communication with our buyers, register as an approved supplier to get started."
+      "description": "Gain access to purchase order collaboration, procurement reporting and direct communication with our buyers, register as an approved supplier to get."
     },
     "first_seen": "2026-07-03T17:50:53+00:00",
-    "last_updated": "2026-07-03T17:50:53+00:00"
+    "last_updated": "2026-09-01T09:14:12+00:00"
   },
   {
     "url": "https://edgegroup.ae/terms-conditions",
     "slug": "terms-conditions",
     "name": "TERMS OF USE",
     "cluster": "",
-    "description": "Read the terms governing use of this website, covering permitted access, intellectual property rights, user responsibilities and disclaimers for all visitors.",
+    "description": "Read the terms governing use of this website, covering permitted access, intellectual property rights, user responsibilities and disclaimers for all.",
     "website": "",
     "product_urls": [],
     "images": [],
@@ -167,9 +167,9 @@
       "page_title": "Terms & Conditions | Website Usage Policy | EDGE Group",
       "title": "TERMS & CONDITIONS",
       "type": "Article",
-      "description": "Read the terms governing use of this website, covering permitted access, intellectual property rights, user responsibilities and disclaimers for all visitors."
+      "description": "Read the terms governing use of this website, covering permitted access, intellectual property rights, user responsibilities and disclaimers for all."
     },
     "first_seen": "2026-07-03T17:50:56+00:00",
-    "last_updated": "2026-07-03T17:50:56+00:00"
+    "last_updated": "2026-09-01T09:14:15+00:00"
   }
 ]
