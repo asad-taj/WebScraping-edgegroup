@@ -1,5 +1,67 @@
 [
   {
+    "url": "https://edgegroup.ae/adasi",
+    "slug": "adasi",
+    "name": "PIONEERING AUTONOMOUS CAPABILITIES",
+    "cluster": "",
+    "description": "Explore ADASI's advanced autonomous systems and unmanned drones. We provide cutting-edge aerial, land, and maritime solutions for modern defense needs.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/garmoosha"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-06/ADASI-EN.png.webp?itok=yCH6i2pN",
+        "alt": "ADASI",
+        "source": "content",
+        "local_path": "images/entities/adasi/fd9b86975cf1685d.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/adasi-home_1.jpg.webp?itok=Sj3VmXqZ",
+        "alt": "Adasi Abu Dhabi, UAE - Military UAV Manufacturers",
+        "source": "content"
+      }
+    ],
+    "body_text": "PIONEERING AUTONOMOUS CAPABILITIES Top Military Drones Military UAV Manufacturers providing reliable end to end Unmanned Aircraft System solution that gives you the edge where when it matters most View Products To shape the future battlefield, the defence sector is heavily reliant on the transformation of digital technology. Keeping pace with industry-driven changes and challenges, ADASI is committed to giving you the edge, from unmanned systems to AI-enabled drones, whenever and wherever. As a trustworthy end-to-end solution provider, ADASI has extensive and robust knowledge of the autonomous systems industry. Founded in 2007, ADASI aims to not only enhance and strengthen its customers’ technological capabilities but also design unmanned systems that help customers to navigate challenging and demanding tasks. In our area of specialty, we have witnessed several modernisations in the defence sector. The world at large has embraced the use and production of autonomous and unmanned drones. ADASI is at the forefront of ensuring that every part of the world is ready to accept and acquire these changes in terms of warfare advancements and air mobility. As part of the EDGE group, we acquire, develop, test, operate, and maintain state-of-the-art systems for air, land, and sea. Focused on building a new generation of autonomous capability, we modify and reconfigure performance to align with our client’s strategic and tactical goals as well as their technological capabilities. Providing both frontline and back-end support, we help our clients by offering products, systems, subsystems, designs, development, testing, commissioning, maintenance and many more solutions to meet their needs. PROCURING OPERATIONAL SERVICES Are you concerned about your operational requirements for both the control station and air vehicles? Consider it solved when you choose ADASI. The future of combat is unmanned and we are equipped to provide state-of-the-art solutions, joint analysis on your mission objectives, meticulous equipment selection, and procurement. We analyse all of your requirements to accurately develop and state an integrated solution including military UAV, UAV sensors, transportation, mobile ground stations, and workshops. We pay close attention to your operational needs, Concept of Operations (CONOPS), and other necessities to offer you the best-in-class solutions for your needs. With ADASI, you are one step ahead at all times. A TACTICAL AND HOLISTIC APPROACH Due to an excellent rapport with our OEM suppliers and exceptional engineering expertise, we are professionals in payload integration and development of systems, including the interface with complex technologies such as command, control, communication, computer, and intelligence (C4I). Working closely with a talented pool of personnel on-ground to help you achieve your goals is part of our holistic approach. Right from taking care of flight operations to maintenance and logistics – ADASI covers it all. Being one of the top military UAV, UGV & USV manufacturers and unmanned vehicle companies in UAE, our highly skilled team bags years of experience and comprises industry experts; ADASI can provide its customers with the right fit of support staff to help you seamlessly deploy unmanned systems. With the help of our advanced OEM relationships, we boast a vast inventory of spare parts, ensuring we are readily available for any maintenance work and full logistical support. We are capable of establishing a dedicated maintenance operation team on-site to enable fast and efficient maintenance. UNMANNED READINESS FOR LAND, AIR AND SEA At ADASI, we deliver next-generation unmanned systems through extensive industry knowledge, in-house research & development and leading international partnerships. These systems are designed to work under extreme conditions and perform critical functions such as monitoring and surveillance. Despite the constant technological changes, ADASI is a strategic unmanned system manufacturer, aiming for consistent innovation, integration, and deployment of key products. GARMOOSHA A light unmanned aircraft system (UAS) Garmoosha curated to carry payloads of approximately 100 kg with an endurance of six hours and a range of 150km. With a Ground Control Station (GCS), this helicopter is designed for surveillance purposes on a low-consumption fuel engine, giving militaries the liberty to allocate their manned helicopters for critical missions. AEROSTAT SYSTEM 200/300/400 Offering novel deployment options for intelligence, surveillance, and reconnaissance (ISR) missions, and C4I systems, AEROSTAT has an endurance that lasts for weeks and can carry electro-optical/ infrared (EO/IR) sensors up to 1,500ft above sea level. Providing supreme flexibility at a low or no-vibration platform for even the most sensitive of systems, AEROSTAT is the best fit for large-sized payloads and ground-based surveillance. AL SABR S-100 We have been operating and providing after-sales support to AL SABR systems for over a decade. AL SABR systems are fully autonomous allowing live video, vertical take-off and landing (VTOL) capabilities with an airborne endurance of up to ten hours; this also includes honing skills, training pilots, and deploying Al Sabr UAV in daily operations from systems and payloads to maintenance and logistics. With a longer range and endurance, AL SABR acts as a transponder for a wide range of altitudes. It enables various deployment possibilities with flexible data dissemination capabilities, from remote video terminals to C4I networking, making it an ideal platform for all types of operations. QX-1, QX-2, QX-3 LOITERING MUNITIONS The QX range of loitering munitions ensure a powerful aerial capability in the hands of frontline forces and provide the optimal tools for military forces to make accurate and discreet attacks with various payload capacities. These drones are quick to deploy, the smaller of which can be carried in a backpack, feature onboard video feeds in real-time as well as multiple fuse options.",
+    "meta": {
+      "page_title": "ADASI: Advanced Autonomous Systems and Unmanned Drones",
+      "title": "ADASI",
+      "type": "Article",
+      "description": "Explore ADASI's advanced autonomous systems and unmanned drones. We provide cutting-edge aerial, land, and maritime solutions for modern defense needs."
+    },
+    "first_seen": "2026-10-01T10:46:19+00:00",
+    "last_updated": "2026-10-01T10:46:19+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/adsb",
+    "slug": "adsb",
+    "name": "BEYOND SHIPBUILDING",
+    "cluster": "",
+    "description": "ADSB is a regional leader in naval and commercial shipbuilding, offering world-class construction, repair, and maintenance for advanced maritime vessels.",
+    "website": "https://adsb.ae/",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/120-fip",
+      "https://edgegroup.ae/solutions/160-itep",
+      "https://edgegroup.ae/solutions/60m-falaj-3"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/adsb.jpg.webp?itok=udytC_w4",
+        "alt": "Abu Dhabi Ship Building Company, UAE",
+        "source": "content"
+      }
+    ],
+    "body_text": "BEYOND SHIPBUILDING ADSB specialises in the build, repair, maintenance, refit, and conversion of naval and commercial Ships. With 25 years of service to the UAE and beyond, we are one of the most experienced shipyards building company. We deploy the latest technologies, including robotics, to maximise fleet readiness, extend ship lifetimes, and lower overall lifecycle costs. Developing advanced maritime capabilities is essential for national sovereignty and economic prosperity. Abu Dhabi Ship Building (ADSB) is the regional leader in the design, new build, repair, maintenance, refit and conversion of naval and commercial vessels, helping keep the GCC’s naval fleet in prime operational condition. In the offshore oil & gas sector, we provide fabrication, maintenance, and refurbishment services. We operate one of the most experienced shipyards in the region and have served our customers for over 25 years. Leveraging the latest technologies and solutions , we maximise fleet readiness and extend ship lifetimes while lowering overall cost. We design and build highly complex vessels for both naval and commercial customers. We have the technical and operational expertise to service vessels of all sizes, whether they are involved in littoral warfare operations, patrol missions, or exclusive economic zone protection. ADSB is a part of the Platforms & Systems cluster at EDGE. Our statement of purpose is to be the region’s leading naval & commercial shipyard, offering unmatched service, innovation and skill. View website NAVAL AND COMMERCIAL SHIPYARDS At ADSB, we are a leader in the fabrication of naval vessels operating three major naval programmes: corvettes, offshore patrol vessels, and fast patrol boats, including the region’s largest naval shipbuilding programme for the UAE Navy’s six Baynunah class corvettes and Falaj offshore patrol vessels. We offer a comprehensive range of at-sea and dry dock maintenance and repairs, upgrade and conversions, engineering consultancy, and shipyard services to both our commercial and naval clients. ENSURING NAVAL READINESS DESIGN ADSB has reinforced its in-house design capabilities to provide customised solutions that meet customers’ requirements and expectations. We have a diverse portfolio of fast patrol boat types and lengths already proven and in the water. NAVAL PRODUCTS SMALL BOATS ADSB has developed a range of fast patrol boats and interceptors entirely designed and built in the UAE. These include 120 FIP (fast interceptor platform), 160 ITEP and 170 ITEP (inshore tactical and engagement platforms). Other products also include an 8.5m special mission boat, assault boats, as well as a wide range of landing craft and sea keepers. LARGE BOATS CORVETTES Featuring the latest new corvette designs, the Baynunah class corvette is a multipurpose warship that can be used for a range of missions, including coastal patrol, reconnaissance, mine detection, and helicopter operations - all with a modern weaponry and sensor packages. OFFSHORE PATROL VESSELS ADSB offers offshore patrol vessels that are specifically developed for navies to conduct a wide variety of tasks. Based on the proven ‘Fearless-class’ platform, FALAJ-3 is designed and equipped for advanced naval duties and is well-equipped to to tackle the challenges of modern day asymmetric warfare. PATROL VESSELS Designed to a wide range of operations, ADSB’s 36FLEX provides a versatile platform to meet all your maritime defence, surveillance, law enforcement, and search-and-rescue requirements to secure your territorial waters. NAVAL SERVICES MAINTENANCE SERVICES ADSB, one of the leading ship building companies in the UAE, provides maintenance and repair services for maritime security naval platforms operating in the region as well as midlife, major and navigational refits, dry docking, and MTU engine overhauling. We maintain and repair naval ships in compliance with stringent standards and specifications. We assure that all processes and products are reviewed regularly in order to consistently improve our offerings. Certified by Bureau Veritas Certification, we have an ISO 9001:2015 Quality Management System, ISO 14001:2015, ISO 45001:2018, and Safety Management certifications. SUSTAINMENT Our sustainment services enable our clients to concentrate on their mission or commercial activity, leaving our team to handle all maintenance functions. Through our in-service support, we provide basic maintenance while vessels are in service, complemented by the guaranteed availability of long-lead time spare parts and equipment. As a result, vessels are available and maintenance windows are shorter. WAREHOUSING FACILITIES A shipyard warehouse provides a safe location to store all critical materials for a project and stock items used for daily operations. At ADSB, we operate four warehouses, six open spaces and satellite stores to enable storage and distribution at project sites and ensure prompt execution of each project. These units are controlled through a highly organised stock control system. COMBAT SYSTEMS INTEGRATION (CSI) We provide a complete range of combat military system (CMS) installation and integration services in conjunction with the Abu Dhabi System Integration Company. Our services range from designing and engineering to installation and commissioning. It includes OEM combat systems such as sensors, effectors, and weapons. ENSURING COMMERCIAL READINESS COMMERCIAL PRODUCT LANDING CRAFT ADSB offers a wide range of landing craft that are designed to support a variety of offshore and coastal activities. ADSB’s landing craft are specifically constructed to support the surface ship-to-shore movement of personnel, cargo, and vehicles. ADSB’s SEA platforms, SEA PAD and SEA TROOPER, deliver operational efficiencies and simplified logistics, maintenance and repair. SEA TROOPER meets diverse transport requirements, while the SEA PAD supports inshore ISR operations. PATROL VESSELS Designed to high quality commercial standards, ADSB’s 36FLEX is equipped to conduct a wide range of maritime operations, such as monitoring shipping, boarding operations and carrying out patrol duties COMMERCIAL SERVICES MAINTENANCE AND REPAIRS We have completed complex projects on various types of commercial ships from conversions to dry docking, including offshore supply vessels, diving support vessels, and superyachts. With more than two decades of experience in commercial boat repairs and services, we have built world-class expertise in this field. YARD SERVICES The services we offer include boat docking and undocking, yard-cleaning, and garbage disposal. We offer comprehensive yard services supported by experts in rigging, diving, and yard-cleaning. Additionally, we maintain ready-to-use mobile equipment such as forklifts, shuttle lifts, and mobile cranes. OFFSHORE RIG FABRICATION As specialists in rig and platform maintenance and refurbishment, we have an extensive network of industry alliances with API- and ASME-certified partners. We also offer topside fabrication for offshore oil and gas and provide steel fabrication support for offshore EPCIs and energy companies. SHIPBUILDING CAPABILITIES ADSB's dedicated steel and aluminium fabrication shops are equipped with advanced machinery and technologies, and are supported by a highly qualified team. We handle everything from major repairs to the design and construction of modular units with the latest 3D modelling. Our mechanical shop features sophisticated machines, cranes, and a clean, controlled environment. Our highly skilled machinists, millwrights, and mechanical fitters provide repair, refurbishment, and maintenance services, ensuring rapid turnaround, quality, and efficiency. Our Small Boat Construction (SBC) division manufactures landing crafts, fast patrol boats, interceptors, and immediate support vessels for customers in the GCC and beyond. Our piping workshop offers services such as profile cutting, pipe bending and fitting, and welding procedures. We leverage the latest automated equipment for indoor prefabrication before installation into vessels. Furthermore, the electrical workshop at ADSB offers comprehensive services, including troubleshooting and repair of motors and generators, lighting systems, power systems, switchboards, control systems and panels. Our carpentry, sheet metal and insulation shops are fully equipped to manage high quality maritime outfitting for minor alterations to major upgrades. Our services also include a wide range of hull treatments and tank coatings, as well as surface preparation and painting of underwater surfaces, main decks, engine rooms, funnels, masts, and chain lockers, anchors and chains. CONVERSIONS With our extensive knowledge in ship building and repair, ADSB offers design, engineering, manufacturing, and implementation of any ship conversion project. We handle projects of all sizes and types for both military and commercial clients at our BV, LR, DNV-GL, RINA, TASNEEF and ISO certified facilities and state-of-the-art shipyard. Our customers benefit from our exceptional quality, timely delivery, and cost-effective pricing on everything from modifications, refits and upgrades to complete structural redesigns and transformations.",
+    "meta": {
+      "page_title": "Regional Leader in Naval and Commercial Shipbuilding | ADSB",
+      "title": "ADSB",
+      "type": "Article",
+      "description": "ADSB is a regional leader in naval and commercial shipbuilding, offering world-class construction, repair, and maintenance for advanced maritime vessels."
+    },
+    "first_seen": "2026-10-01T10:46:23+00:00",
+    "last_updated": "2026-10-01T10:46:23+00:00"
+  },
+  {
     "url": "https://edgegroup.ae/advanced-concepts",
     "slug": "advanced-concepts",
     "name": "ADVANCED CONCEPTS is an entity within EDGE dedicated to the design and deployment of advanced, innovative technologies.",
@@ -38,11 +100,229 @@
     "last_updated": "2026-07-03T17:50:45+00:00"
   },
   {
+    "url": "https://edgegroup.ae/advanced-sensing",
+    "slug": "advanced-sensing",
+    "name": "Advanced multi-domain electro-optics, radar, electronic warfare, and space-based solutions",
+    "cluster": "",
+    "description": "EDGE’s Advanced Sensing capabilities in electro-optics, radar, electronic warfare and space technologies for defence, security and civilian applications.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2022-08/bg-header-intelligence.jpg.webp?itok=x7OZvpRG",
+        "alt": "bg-header-intelligence",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2022-08/em-attack-capabilities.png.webp?itok=B2xbJX67",
+        "alt": "em-attack-capabilities.png",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2022-08/em-intelligence-capabilities.png.webp?itok=dQkHehBI",
+        "alt": "em-intelligence-capabilities.png",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2022-08/ELECTRONIC%20WARFARE%20%20THREAT%20NEUTRALIZATION.jpeg.webp?itok=cJoRF1DZ",
+        "alt": "ELECTRONIC WARFARE THREAT NEUTRALIZATION.jpeg",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2022-08/DATA%20ANALYTICS%20%26%20INTELLIGENCE.jpeg.webp?itok=w_S_FoHL",
+        "alt": "DATA ANALYTICS & INTELLIGENCE.jpeg",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2022-08/em-defence-capabilities.png.webp?itok=2muVF-YK",
+        "alt": "em-defence-capabilities.png",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2022-08/ew-security-training.png.webp?itok=MM_rJsge",
+        "alt": "ew-security-training.png",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/large/public/2025-02/FADA.webp?itok=lYlDKbOB",
+        "alt": "FADA",
+        "source": "content",
+        "local_path": "images/entities/advanced-sensing/62bf2544ad98a5a2.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/2024-08/electrooptics.webp",
+        "alt": "Optics",
+        "source": "content",
+        "local_path": "images/entities/advanced-sensing/c4bdf8e5ee14fc5e.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/2024-08/radar_listing.webp",
+        "alt": "Radar",
+        "source": "content",
+        "local_path": "images/entities/advanced-sensing/cbbea4f9ed3c4169.webp"
+      }
+    ],
+    "body_text": "ADVANCED SENSING Advanced multi-domain electro-optics, radar, electronic warfare, and space-based solutions The EDGE Advanced Sensing cluster develops UAE-sovereign sensing solutions for civilian, defence and security applications across space, air, ground, sea and subsea domains. WHAT WE DO Today, rapid decision-making and accurate threat assessment and targeting depend on the quality of information available to commanders, operators, and combat systems. Across space, air, ground, sea, and subsea domains, sensors are essential for effective offensive and defensive capabilities, as well as for a wide range of civilian data and monitoring applications. Our Advanced Sensing cluster strengthens UAE-sovereign capabilities in electro-optics and radar, including signal processing and sensor fusion technologies, across the electromagnetic spectrum. The cluster supports civilian, defence, and security applications in areas such as satellite systems, border monitoring infrastructure, asset and personnel protection, electronic warfare, and weapons systems. The cluster also develops space IP, satellite systems, payloads, and subsystems. OUR CAPABILITIES Multispectral EO/IR ISTAR and targeting systems 3D AESA/MIMO and SAR radar technologies Offensive and defensive electronic warfare solutions Satellite payloads, terminals and platform subsystems manufacturing, assembly, integration and testing Space situational awareness and early warning systems Satellite navigation technologies OUR COMPANIES FADA produces state-of-the-art satellite subsystems and ground stations, and develops advanced satellite cybersecurity and space-based remote sensing technologies. Learn More View Products OUR CENTRES OF EXCELLENCE ELECTRO-OPTICS The EDGE Electro-Optics Centre of Excellence designs and produces cutting-edge multispectral optronics technologies that transform surveillance, reconnaissance, target acquisition and tracking, precision-guided munitions, navigation and situational awareness. Featuring advanced systems with infrared (IR) imaging, day vision, short-wave infrared (SWIR), laser illumination, designation and scanning, and hyperspectral imaging, the CoE brings together EDGE Group capabilities to design and develop solutions that deliver exceptional performance across diverse environments. Whether assets are on the ground, in the air, at sea, or in space, the Centre’s solutions provide the critical edge needed to turn the margin between success and failure into a decisive advantage. RADAR & ELECTRONIC WARFARE Designing and deploying new radar and electronic warfare technologies and systems is crucial in today’s fast-evolving world, where supremacy across the electromagnetic spectrum is increasingly central to mission success. The EDGE Radar & Electronic Warfare Centre of Excellence brings together EDGE Group expertise to design, develop, and upgrade radar and EW products and solutions. Our UAE-based technology and sovereign capabilities instil confidence and competence, helping local and global customers achieve their strategic objectives.",
+    "meta": {
+      "page_title": "ADVANCED SENSING | EDGE",
+      "title": "ADVANCED SENSING",
+      "type": "Article",
+      "description": "EDGE’s Advanced Sensing capabilities in electro-optics, radar, electronic warfare and space technologies for defence, security and civilian applications."
+    },
+    "first_seen": "2026-10-01T10:46:33+00:00",
+    "last_updated": "2026-10-01T10:46:33+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/al-jasoor",
+    "slug": "al-jasoor",
+    "name": "ADVANCED VEHICLES FOR TOMORROW'S MISSIONS",
+    "cluster": "",
+    "description": "Explore Al Jasoor’s advanced armoured fighting vehicles. We provide cutting-edge land platforms and defense solutions tailored for modern security needs.",
+    "website": "https://aljasoor.ae/",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/rabdan-8x8-infantry-fighting-vehicle"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/aljasoor.jpg.webp?itok=j_lZmYkc",
+        "alt": "AL Jasoor - Armored Vehicle Manufacturers in UAE",
+        "source": "content"
+      }
+    ],
+    "body_text": "ADVANCED VEHICLES FOR TOMORROW'S MISSIONS AL JASOOR is the UAE's national specialist in armoured vehicles that developed to deliver advanced offensive & defensive capabilities and to bring agility, mobility, and versatility to your forces in the field. Battle environments are becoming more diverse, complex, and challenging than ever. Future combat scenarios call for the most advanced land vehicles that provide your forces with the intelligence, insight, flexibility, tactics, planning, and responses that they need to secure the battlefield. At AL JASOOR , we take pride in offering the next generation of armoured vehicles, fully equipped with defensive and offensive capabilities, and boasting mobility, agility, and survivability on land and in water. EDGE recognises that future battlefields are increasingly complex and that our clients require superior defence across land, sea, space, cyberspace and air domains. As the region’s specialist in armoured vehicles, we belong to the Platforms & Systems cluster at EDGE. AL JASOOR is the exclusive supplier of the state-of-the-art RABDAN 8x8 infantry fighting vehicle and guarantees a standard of excellence. Safety is our priority and we ensure that those on the frontline are protected with next generation vehicles. We enhance ground force capability and deliver tactical flexibility on the battlefield. View website FLEXIBLE FIGHTING VEHICLES FOR FUTURE COMBAT RABDAN 8x8 Armoured Fighting Vehicle As the defence industry accelerates due to global modernisation, there is a growing need to replace outdated infantry fighting vehicles and the high demand for 8x8 soldier vehicles in the emerging markets, such as Asia and the Middle East, is expected to flourish. AL JASOOR has designed RABDAN’s exterior armour to guarantee the safety of troops against ballistics, blasts, and other impacts in order to complete missions. RABDAN is an unparalleled combination of value and performance with the future in need of a flexible fighting vehicle built for multi-terrain action. We exclusively supply the RABDAN 8x8 in the region - a next-generation, multi-wheeled infantry fighting vehicle (IFV), fully equipped with the most advanced systems and built for tactical performance on various missions and terrains. A spectrum of specialised configurations are readily available to transport up to 12 frontline troops who require stability and mobility on land and water. Your frontlines will always be mission-ready with high-level protection owing to: All-around protection against improvised explosive devices (IED) at short distance Chemical, biological, radiological, and nuclear (CBRN) protection High ballistic protection with modular add-on armour system The RABDAN 8x8 IFV is equipped with the following standard equipment: Automatic Fire Suppression System CBRN Filtration System Central Tyre Inflation System Driver’s Vision Enhancement System Provision for C4I Radial Tyres with Run Flat Inserts Ramp Door with Emergency Exit Self-Recovery Winch Situational Awareness System We also offer a complete vehicle system with the following RABDAN variants: Ambulance Vehicle Armoured Personnel Carrier Command and Control Vehicle Driver Training Vehicle Fire Support Vehicle Infantry Fighting Vehicle Mortar Carrier Reconnaissance Vehicle Recovery Vehicle ROBUST PERFORMANCE RABDAN 8x8 Recovery Vehicle This highly advanced vehicle system has been designed and built to perform heavy-duty recovery. Even at the deepest levels of the battlefields, the RABDAN 8x8 Recovery Vehicle offers off-road mobility, high level of protection, impressive recovery capability, and optimal payload capacity. We have worked hard to ensure that the RABDAN 8x8 Recovery Vehicle offers your troops: Heavy-Duty Recovery with a Long Boom Crane and Dozer Blade Mobility with a 720 HP Engine Payload Capacity of Transporting a Spare Power Pack to the Battlefield Protection with a Level of Protection Similar to the RABDAN IFV In addition to the standard equipment, the specialised platform features the following recovery equipment: Auxiliary Winch Hydraulic Dozer Blade Recovery Winch Telescopic Crane SUPPORT FOR THE LONG TERM Supporting RABDAN At AL JASOOR, we supports the rollout of our vehicles with the Integrated Logistics Support long-term package that includes: Local Retrofitting and Customisation to Meet a Range of Mission Objectives Maintenance Training On-Site Client Logistic Support Operational Training and Know-How Repair, Refurbishment and Preventive Maintenance, Including a 20-Year Agreement for the Supply of Spare Parts, Special Tools and Technical Support",
+    "meta": {
+      "page_title": "Armoured Fighting Vehicles Manufacturers (AFV) | EDGE",
+      "title": "AL JASOOR",
+      "type": "Article",
+      "description": "Explore Al Jasoor’s advanced armoured fighting vehicles. We provide cutting-edge land platforms and defense solutions tailored for modern security needs."
+    },
+    "first_seen": "2026-10-01T10:46:37+00:00",
+    "last_updated": "2026-10-01T10:46:37+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/al-taif",
+    "slug": "al-taif",
+    "name": "OUR MISSION: YOUR READINESS.",
+    "cluster": "",
+    "description": "Al Taif is the leading provider of military MRO and lifecycle support for land platforms. We deliver expert maintenance and repair for mission readiness.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/maintenance-repair-and-overhaul"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/Al-Taif-EN_0.png.webp?itok=31neBnD4",
+        "alt": "Al Taif",
+        "source": "content",
+        "local_path": "images/entities/al-taif/3d3a0b05be1429ab.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/altaif.jpg.webp?itok=idnlSl_O",
+        "alt": "Al Taif Abu Dhabi, UAE - Military MRO Company",
+        "source": "content"
+      }
+    ],
+    "body_text": "OUR MISSION: YOUR READINESS. AL Taif is the leading Military MRO Company providing of maintenance, repair and overhaul services, and comprehensive lifecycle support for land platforms, heavy utility vehicles and ground support equipment to the UAE Armed Forces. View Products In today's combat environment, Armed Forces must be ready to conduct the full range of military operations at any given time. With 14 years' experience providing military maintenance, repair and overhaul (MRO) services , AL TAIF ensures your land platforms and systems are well-maintained and mission ready. Our inspection and turnover management services are flexible, scalable, and easily tailored to meet your force requirements no matter how rapidly and continuously evolving. With nine state-of-the-art workshops and facilities, AL TAIF is equipped to provide optimal convenience and reliability. We are able to quickly and efficiently address any and all lifecycle support requirements. We empower our customers from various sectors to focus on their missions with the confidence that their land-based systems and platforms, war fighters, and other vital personnel are in their absolute prime condition to operate at optimal performance. Founded in 2006, AL TAIF became part of the Platforms & Systems cluster within EDGE Group in 2019. Combining local and international experience, a rigorous standards-based approach and sector-specific knowledge, we provide the multi-platform support you need to ensure mission success. AGILE AND TAILORED SOLUTIONS We are the leading providers of military vehicle MRO, comprehensive lifecycle support for various land platforms, armoured vehicles and ground support equipment for the UAE Armed Forces. Additionally, AL TAIF provides the comprehensive training your personnel need in order to work these assets. OFFERING INNOVATIVE SUPPORT Engineering At AL TAIF, we provide engineering solutions, technology integration, and upgrades across a wide spectrum of defence systems and platforms. We create innovative solutions to help strengthen your capabilities as well as manufacture spare parts and components. Our in-house engineering capabilities include electrical and system integration, fabrication, materials testing and calibration, mechanical design, reverse engineering, and simulation. We are proud to present our calibration laboratory, fabrication workshop, and materials testing laboratory: Calibration Our state-of-the-art calibration laboratory’s services are widely respected and trusted as AL TAIF continues to support the UAE Armed Forces in assuring and maintaining the world-class quality of its measuring and monitoring equipment. Fabrication Workshop We specialise in fabricating customised spare parts and components with the use of aluminium, brass, mild steel, and stainless steel. AL TAIF’s fabrication workshop has the following main areas: Car Modification Foundry Machining Sheet Metal Work Welding Materials Testing Laboratory Our Materials Testing Laboratory is able to provide the critical assessment of parts and other components according to global best practice which includes materials characteristics, properties, structures and composition against specific criteria, as well as intended application. AL TAIF offers the following services: Corrosion Tests Failure Analysis Metallographic Examination Non-destructive Testing (NDT) Oil Analysis Polymer Identification and Thermal Analysis Spectroscopy HELPING YOU REMAIN MISSION READY Maintenance, Repair and Overhaul Our MRO services in the UAE are comprehensive and part of the integrated lifecycle support to military fleets. Additionally, our military MRO processes are controlled by our ISO 9001-certified quality management system which includes a wide variety of military vehicles, small arms, and components. Despite rigorous timelines, AL TAIF provides complex, extensive, and world-class quality maintenance services in order to maximise asset availability while ensuring business continuity. We offer innovative solutions in order to provide you with the best support possible. Our services include: Component Rebuild (Engine Transmission, Differentials) Component Refurbishment Vehicles and Component Electronics and Electrical Repair Vehicles and Component Upgrade Vehicles Interior and Exterior Body Work Painting and Welding Vehicles Rebuild Our capabilities include: Components Electrical Electronics Heavy/Light Equipment Small Arms Tracked/Heavy Vehicles Wheeled/Light Vehicles PROVIDING ACCESS TO THE LATEST TECHNOLOGY AND SYSTEMS Supply-Chain Management AL TAIF delivers value-added inventory management and procurement services in order for you to maximise your assets’ availability and performance. This includes optimising the handling of issuing, delivery of parts, receipt, and storage. We take advantage of big data and analytics in order to develop the most effective and advanced maintenance forecasts and planning schedules. AL TAIF has the following capabilities: Cataloguing Demand Analysis and Reporting Inventory Control Order Fulfilment and Distribution Preservation and Packaging Receipt, Storage, and Issuance of Spares and Repairables MULTI-PLATFORM EXPERTISE As a military vehicle maintenance company, AL TAIF trains all operators on legacy and new technology systems in order to ensure that they fully benefit from our MRO and related services. To achieve this, we provide military and training staff with experienced and highly skilled technical training personnel, flexible training delivery methods, on-site training material publications, and specialised training facilities. We also offer: Instructor Certification Courses Mechanical, Electrical Electronics, and Allied Trade Training Specialised Curriculum Built through Training Needs Analysis (TNA) Systems Approach to Training (SAT) Transfer of Technical Skills to Client Personnel Virtual Reality (VR) and Augmented Reality Training IN-HOUSE PROFICIENCY TO STRENGTHEN YOUR CAPABILITIES International Certification At the core of AL TAIF’s operations is our commitment to performance and precision. Reflecting our dedication to the mission-critical performance requirements and associated qualities, we have earned a growing list of international certifications that demonstrate how we continue to deliver and operate at the highest standard. We have been accredited: ISO 9001 Certification for Quality Management Systems ISO 14001 Certification for Environmental Management Systems ISO 17025 Certification for Accreditation for General Requirements for the Competence of Testing & Calibration Laboratories ISO 45001:2018 Certification for Occupational Health and Safety Management Systems",
+    "meta": {
+      "page_title": "Military MRO and Land Platform Support | Al Taif",
+      "title": "Al TAIF",
+      "type": "Article",
+      "description": "Al Taif is the leading provider of military MRO and lifecycle support for land platforms. We deliver expert maintenance and repair for mission readiness."
+    },
+    "first_seen": "2026-10-01T10:46:42+00:00",
+    "last_updated": "2026-10-01T10:46:42+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/al-tariq",
+    "slug": "al-tariq",
+    "name": "STAND OFF. STAY ACCURATE.",
+    "cluster": "",
+    "description": "Explore Al Tariq’s modular precision-guided munitions. We convert unguided aerial weapons into high-precision, long-range smart systems for modern defense.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/Al-Tariq-EN.png.webp?itok=odL_W-M2",
+        "alt": "Al Tariq",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/ae9cfe4b7166988b.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/al-tariq.jpeg.webp?itok=58NZoIOJ",
+        "alt": "AL Tariq - PGM Manufacturers in UAE",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2026-07/about-us.jpg.webp?itok=8YlEPmjm",
+        "alt": "about",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/936401ea5227c5f4.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2026-07/al-tariq-lr.png.webp?itok=5w4j-bm9",
+        "alt": "Safety and precision",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/2863e78c6553fdf0.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/our-difference.jpg.webp?itok=qHw3p9cY",
+        "alt": "Design",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/154961615226effc.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/about-us.jpg.webp?itok=sXeoOKSV",
+        "alt": "about",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/293e647309d943ff.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/our-purpose-1.jpg.webp?itok=QXEAUzse",
+        "alt": "Manufacturing",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/6ecbc252dd51ebf1.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/about-edge.png.webp?itok=twCNchJL",
+        "alt": "about-edge",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/99fcd40d671f0433.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/al-tariq-lr.jpg.webp?itok=YizEBX8d",
+        "alt": "al-tariq-lr",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/c4acc67e10b27ba9.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2026-07/what-we-offer.jpg.webp?itok=GRWGkd8v",
+        "alt": "Products",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/e7e5ce632588f730.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2026-07/about-us-1.jpg.webp?itok=xgf3JyEP",
+        "alt": "Engineering Precision",
+        "source": "content",
+        "local_path": "images/entities/al-tariq/fa37ba391338e67e.webp"
+      }
+    ],
+    "body_text": "STAND OFF. STAY ACCURATE. AL TARIQ manufactures innovative, combat-proven precision-guided kits for MK-series aerial munitions. View Products About Us AL TARIQ is a world-class manufacturer of combat-proven, precision-guided munition (PGM) kits. Incorporating the latest advances in the field, our solutions convert conventional aerial munitions into high-precision smart weapons with stand-off ranges of up to 120 km. Targeting technologies Our systems come in easy-to-handle, deployable configurations and utilise Global Navigation Satellite System (GNSS) and Inertial Navigation System (INS) technologies for guidance and navigation. Imaging infrared (IIR) sensors with automatic target recognition, and semi-active laser (SAL) seekers enable the precision targeting of high-priority fixed, off-axis, moving, and relocatable targets. Our systems are also capable of operating in GNSS-denied and spoofed environments. Safety and precision The result is a precision-guided munition with extended stand-off range and fire-and-forget capability for improved pilot safety while achieving a circular error probable (CEP) of less than three metres to minimise collateral damage. Core Capabilities Design Engineering Manufacturing Key Advantages Combat-proven, next-generation technologies Cost-effective, stand-off solutions Sovereign IP US MIL-STD-1760 and ITAR-free solutions Products Designed for MK-series aerial munitions, our portfolio enhances ground-strike capabilities. These modular systems provide programming flexibility, 120 km stand-off ranges, and all-weather, day-or-night operations to meet evolving mission requirements. AL TARIQ systems are compliant with US MIL-STD-1760 and also offer ITAR-free solutions. After-sales support We complement our systems with testing equipment, documentation, and training to enable effective deployment worldwide. Engineering Precision The mission-proven effectiveness of our systems reflects a design and production process that incorporates cutting-edge technologies, expert engineers, precision machining, advanced software, and mechanical designs enhancing optics, propulsion, and weaponry. Ongoing upgrades Our ongoing upgrades include the Block III version of our PGM range, featuring: Enhanced operation in GNSS-denied and spoofed environments through advanced anti-jamming and anti-spoofing capabilities Improved target acquisition sub-systems, including SAL and IIR seekers Enhanced sensors and navigation algorithms Weapon teaming and data link capabilities Production monitoring We monitor every stage of production and assembly, taking due precautions and ensuring 100% compliance with quality, safety, manufacturing, testing, and certification protocols.",
+    "meta": {
+      "page_title": "Precision-Guided Munitions and Systems | Al Tariq",
+      "title": "AL TARIQ",
+      "type": "Article",
+      "description": "Explore Al Tariq’s modular precision-guided munitions. We convert unguided aerial weapons into high-precision, long-range smart systems for modern defense."
+    },
+    "first_seen": "2026-10-01T10:46:56+00:00",
+    "last_updated": "2026-10-01T10:46:56+00:00"
+  },
+  {
     "url": "https://edgegroup.ae/all-solutions",
     "slug": "all-solutions",
     "name": "EXPLORE EDGE SOLUTIONS",
     "cluster": "",
-    "description": "Tomorrow is just over the horizon - a bold future limited only by our imagination.",
+    "description": "Explore EDGE’s advanced defence and security solutions across air, land, sea, space, cyber and autonomous systems, supporting diverse operational requirements.",
     "website": "",
     "product_urls": [],
     "images": [
@@ -108,10 +388,161 @@
       "page_title": "All Solutions | EDGE",
       "title": "All Solutions",
       "type": "Article",
-      "description": "Tomorrow is just over the horizon - a bold future limited only by our imagination."
+      "description": "Explore EDGE’s advanced defence and security solutions across air, land, sea, space, cyber and autonomous systems, supporting diverse operational requirements."
     },
     "first_seen": "2026-07-03T17:50:50+00:00",
-    "last_updated": "2026-07-03T17:50:50+00:00"
+    "last_updated": "2026-10-01T10:47:00+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/anavia",
+    "slug": "anavia",
+    "name": "ANAVIA",
+    "cluster": "",
+    "description": "Explore Anavia’s world-class unmanned VTOL helicopters. Our Swiss-engineered autonomous systems deliver industry-leading endurance and heavy-lift capacity.",
+    "website": "https://anavia.eu/",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/ht-100",
+      "https://edgegroup.ae/solutions/ht-750"
+    ],
+    "images": [],
+    "body_text": "ANAVIA ANAVIA designs, engineers and manufactures the best unmanned vertical take-off and landing (VTOL) helicopters in the world. Unmanned Performance. Unmatched Flight. ANAVIA autonomous helicopters deliver exceptional performance, no matter the industry or the mission ANAVIA specialises in the design and manufacture of the world’s most advanced unmanned helicopters. Proudly Swiss, with cutting-edge technology and rigorous engineering, these platforms deliver unparalleled safety, reliability, versatility, performance and ease of operation. The company’s autonomous helicopters serve a wide range of industries, including surveillance, reconnaissance, inspection, remote aerial sensing, logistics and emergency response. Compared to similar performing manned helicopters, ANAVIA VTOLs deliver significant cost savings. Crucially, ANAVIA VTOL aircraft are optimally designed to carry highly sensitive sensor payloads. Our dual, inter-meshing Flettner main rotor system avoids interference or vibration distortion typical of conventional tail rotor helicopters. Specialised platforms can operate in maritime settings or carry payloads up to 400 kg. VISIT WEBSITE Industries Intelligence, surveillance and reconnaissance Infrastructure inspection and monitoring Search and rescue Remote aerial sensing Logistics Platforms ANAVIA HT-100 : Heavy-duty, long-range unmanned aerial vehicle (UAV) for autonomous flight operations ANAVIA HT-100 Naval: Same features as HT-100 but ruggedised for maritime deployment ANAVIA HT-40: Training platform ANAVIA HT-750 : Heavy-lift, long-endurance, extended-range UAV for autonomous flight operations",
+    "meta": {
+      "page_title": "Advanced Unmanned VTOL Helicopters | Anavia",
+      "title": "ANAVIA",
+      "type": "Article",
+      "description": "Explore Anavia’s world-class unmanned VTOL helicopters. Our Swiss-engineered autonomous systems deliver industry-leading endurance and heavy-lift capacity."
+    },
+    "first_seen": "2026-10-01T10:47:03+00:00",
+    "last_updated": "2026-10-01T10:47:03+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/beacon-red",
+    "slug": "beacon-red",
+    "name": "THE GREATEST RISK IS COMPLACENCY",
+    "cluster": "",
+    "description": "Enhance national security with Beacon Red. We offer advanced training, cyber solutions, and language services to prepare professionals for complex threats.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/training-solutions-beacon-red"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-06/BeaconRed-EN.png.webp?itok=VF77sbOX",
+        "alt": "Beacon Red",
+        "source": "content",
+        "local_path": "images/entities/beacon-red/d3cec3dde64a31c5.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/beconred.jpg.webp?itok=aXQGnPPH",
+        "alt": "Beacon Red UAE - National Security Agency Establishment Services",
+        "source": "content"
+      }
+    ],
+    "body_text": "THE GREATEST RISK IS COMPLACENCY View Products In the face of constant change, we must quickly adapt how we operate to reflect this reality. At BEACON RED, we confront national security challenges in unconventional ways. Founded in 2018, BEACON RED is a wholly owned subsidiary in the Space & Cyber Technologies within EDGE Group. When it comes to defence, our goal is always the same. We aim to enhance the capabilities of national security agencies and personnel to face the contemporary challenges of today and tomorrow, wherever they might be found. At BEACON RED, we develop novel approaches to the world’s most challenging problems. Our team comprises of elite professionals, hand-picked from 25 different countries. We are thought leaders, innovators, and risk takers from the world's most prestigious organisations and businesses. We are pioneers, who constantly push the boundaries of the status quo. Our subject matter expertise is not just extensive but also innovative, combining advances in knowledge management, people analytics, project delivery, language support services, and group security. Through our extensive course catalog of almost 100 training solutions and assessment platforms, we guarantee that the next generation of national security professionals are prepared to succeed in any location, environment, or situation on the globe. Each training solution we develop is flexible, relevant, and representative of the challenges that our students will confront in the 21st century. These solutions are also capable of accommodating the constraints of any security culture as we recognise the difficulties inherent in working at a national security establishment. Through close collaborations with our partners and clients, we guarantee that their strategic needs and the capabilities necessary for success in any national security context are completely aligned. We offer only the most bold and audacious training, skills, and technologies to motivate and push our partners and clients to be transformative, adaptable, and flexible in any situation, anywhere in the world. THE SCIENCE OF SELECTION Trusting in the science of selection, our people analytics division is always on the lookout for professionals to contribute to the dynamic nature of national security. Our team of statisticians, data scientists, and applied psychologists leverage cutting-edge analytical testing with psychometric and biometric measures to simplify and streamline a client’s selection process. With our bespoke battery of precision testing and real-time personality characteristic mapping, our clients can effectively meet their performance objectives and identify the profile they need to maximise talent, human performance, and mental resilience. At BEACON RED, we utilise supervised machine learning for the analysis of numerous data points, ensuring the selection of only the best and most competent applicants. People analytics equips decision and policymakers with the information necessary to inspire dynamic performance throughout an organisation. EDUCATING TOMORROW’S SECURITY PROFESSIONALS The next generation of security professionals will confront enormous difficulties in a fast-changing asymmetric security environment. Recognising this issue, BEACON RED believes that the best way to prepare is to create training solutions that spark not only curiosity but also thorough understanding of the UAE's national security establishment. This is exactly what our knowledge management team is here for. Banding together a broad group of subject matter experts, our team develops the most relevant and current national security agency training platforms and curriculums for our trainees. We design our training solutions to be flexible and responsive in order to meet our clients’ strategic requirements, regardless of their location. These solutions also adhere to the SAT (Systems Approach to Training) standard and come complete with comprehensive training and technical documentation. Beyond training materials, we provide our students with the basic and advanced skills, along with opportunities to succeed in the classroom, to prepare them for the difficulties they will encounter in the real world. POWER IN OUR PEOPLE At BEACON RED, we not only develop high-quality training solutions for the next generation of national security professionals but also oversee the implementation and execution of up to one hundred unique programmes. Comprised of experts and instructors from industry-leading agencies and organisations across the globe, our project delivery team boasts an extensive subject matter expertise necessary to succeed in any contemporary national security establishment. In collaboration with the UAE government, we equip our graduates with competitive knowledge and skills that prepares them to confront and address the long-term strategic implications of national security. EXPERT LANGUAGE SUPPORT Bridging the cultural divide between our instructors and students, our linguists and interpreters are more than just translators; they are creators and facilitators. At BEACON RED, we integrate a team of 75 full-time English-to-Arabic language assistance specialists into all areas of our work, all of whom ensure that our translations are culturally and contextually appropriate for the organisation or environment in which they will be deployed. This is especially true when operating in areas of national security, where we allow no room for interpretation. With our readiness to meet any translation requirement, we can equip organisations, institutions, and government agencies with the language support services they need in engaging in the development of public and private sector initiatives. Additionally, we provide discrete legal translation services across the UAE for businesses operating in sensitive areas. BUILDING CULTURES OF RISK MANAGEMENT In an increasingly complex region, BEACON RED prioritises the safety and welfare of employees, as well as our clients and partner organisations. We aim to build risk management cultures from the inside out through the successful integration of specialist advisers that adapt into any organisational structure. We are aware that threats tend to occur in the most unexpected of places and at the most inconvenient of times. This is why we deploy an active operational security staff available 24 hours a day, 7 days a week, 365 days a year, protecting all of our project departments and locations with the best quality threat assessments, risk mitigations, and group security innovations. Equipped with vast experience in performing assessments, audits, and investigations, our team of enterprise risk managers are well-versed in establishing supporting policies and procedures for some of the world's largest businesses in the most challenging regions.",
+    "meta": {
+      "page_title": "National Security & Cyber Training Solutions | Beacon Red",
+      "title": "BEACON RED",
+      "type": "Article",
+      "description": "Enhance national security with Beacon Red. We offer advanced training, cyber solutions, and language services to prepare professionals for complex threats."
+    },
+    "first_seen": "2026-10-01T10:47:08+00:00",
+    "last_updated": "2026-10-01T10:47:08+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/caracal",
+    "slug": "caracal",
+    "name": "HITTING THE MARK",
+    "cluster": "",
+    "description": "Discover Caracal's high-performance small arms and firearms. We provide world-class precision weapons for defense and law enforcement across the globe.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/enhanced-f",
+      "https://edgegroup.ae/solutions/caracal-f-gen-ii",
+      "https://edgegroup.ae/solutions/cmp9-smg",
+      "https://edgegroup.ae/solutions/car-816",
+      "https://edgegroup.ae/solutions/car-817-ar",
+      "https://edgegroup.ae/solutions/csr-308",
+      "https://edgegroup.ae/solutions/csa-338",
+      "https://edgegroup.ae/solutions/csr-338",
+      "https://edgegroup.ae/solutions/car-817-dmr",
+      "https://edgegroup.ae/solutions/csr-50"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-06/Caracal-EN.png.webp?itok=VRrkFA5L",
+        "alt": "Caracal",
+        "source": "content",
+        "local_path": "images/entities/caracal/93e80c28f0f82cbd.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2023-08/caracal.jpg.webp?itok=wCz0QiQa",
+        "alt": "Caracal - Small Arms Manufacturer UAE",
+        "source": "content",
+        "local_path": "images/entities/caracal/cc3a65c02764cff2.webp"
+      }
+    ],
+    "body_text": "HITTING THE MARK We are world-renowned small arms manufacturer. With being in the weapons industry from past 15 years, we have established ourselves as pioneers in building high-precision weapons and guns. View Products CARACAL is an internationally recognised small-arms manufacturer with a production legacy of over 15 years in designing, engineering, manufacturing, and assembling high-precision, battlefield-proven firearms. CARACAL, headquartered in Abu Dhabi, is a part of EDGE Group's Missiles & Weapon cluster. The company's product line consists of combat pistols, submachine guns, assault rifles, and sniper rifles in a variety of calibres. CARACAL utilises the highest quality CNC machines, quality control equipment, and moulding technologies to construct is firearms at leading edge facilities. PRODUCTS CARACAL, a leading small-arms manufacturer company in UAE, has a wide range of pistols, submachine guns, assault rifles and sniper rifles that are field-tested to provide the most reliable arms for law enforcement, security, and military forces, and can also be used as personal defence weapons. Our products are continuously monitored for compliance with international standards such as NATO and CIP. PISTOLS CARACAL EF – HIGHLY VERSATILE STRIKER FIRED PISTOL The 9x19mm CARACAL Enhanced F pistol was released in 2015. There has been extensive testing of this weapon under the harshest conditions to ensure it meets standards. It also features an 18-round 9mm magazine of high capacity, and retains the low bore axis of previous CARACAL pistols. The CARACAL Enhanced F pistol features an optional threaded barrel available for attaching suppressors, and a propriety two-dot sight system with the capability to use a quick-sight combat system. CARACAL F GEN II – HIGHLY VERSATILE SEMI-AUTOMATIC PISTOL To deliver the best pistol to the end user, CARACAL F GEN II underwent a rigorous development process. To meet internationally recognised standards, Gen F II was thoroughly tested under harsh conditions. Carrying an 18-round magazine, it retains the unique low bore axis of previous CARACAL pistols. This pistol features interchangeable solid sights, a low profile slide that allows the operator to feel less recoil, and an integrated Mil-spec picatinny rail (MIL-STD-1913) to attach multiple accessories for a smooth and crisp trigger performance. SUBMACHINE GUNS CARACAL CMP9 SMG – MODERN SUBMACHINE GUN A modern and modular weapon, the CMP9 SMG features an advanced blowback system and a 9x19mm calibre munitions. The bolt extends over the barrel to provide better weapon control and weight distribution, with an ambidextrous charging handle and a traditional pistol grip for firing. ASSAULT RIFLES CAR 814 – TACTICAL RIFLE FOR STRATEGIC SUCCESS Featuring NATO 5.56x45mm cartridges, the CAR 814 is a centre-firing, direct gas-impingement operated assault rifle used in law enforcement and military settings. This weapon is available in both semi-automatic and select-fire configurations, and in a variety of barrel lengths. CAR 816 – TACTICAL RIFLE FOR STRATEGIC SUCCESS The CAR 816 is an advanced tactical weapon that is intended for law enforcement and military applications. This assault rifle is a centre-fired, gas powered, NATO 5.56x45mm rifle and operates on a short-stroke piston system with three settings. Depending on preferences, the weapon can be configured to either semi-automatic or select-fire model. CAR 817 AR – ADVANCED ARM, ACCURATE STRIKES A centre-firing, gas-operated, rotating bolt, the CAR 817 AR rifle is chambered in 7.62x51 mm NATO (.308 WIN). A short-stroke push-rod gas piston system regulates the system's operation. Assembled with fully ambidextrous functionality, the weapon is available in both semi-automatic and select-fire configurations. SNIPER RIFLES CSR 308 – RUGGED PRECISION RIFLE The CSR 308 rifle is a modern, rugged, accurate, manual-bolt rifle weapon that can withstand the most demanding environments. The CSR 308 offers reliability, safety, and ease of operation for military and law enforcement personnel. CSA 338 – SEMI-AUTOMATIC SNIPER RIFLE (optional) The 338 Lapua Magnum is a semi-automatic precision platform that not only produces the accuracy of a bolt action sniper, but also allows for quick follow-up shots, which can make all the difference between mission success and failure. Built from scratch to meet the most stringent needs of Special Forces, the CSA 338 provides dependable operation in even the most extreme of environments. CSR 338 – MODERN PRECISION RIFLE (optional) The CSR 338 is a modern, robust, manual-bolt, precision rifle system designed for challenging environments. Featuring a sophisticated design, a superior level of craftsmanship, and high-quality materials, this rifle supports excellent accuracy, reliability, and durability. The CSR 338 is suitable for military and law enforcement personnel. CAR 817 DMR – HIGH-PRECISION TACTICAL ARM The CAR 817 DMR (Designated Marksmen Rifle) offers high-precision, semi-automatic, gas-operated, rotating bolt system tactical accuracy chambered in 7.62x51mm NATO (.308 Win). It is a tactical weapon used by law enforcement and the military. The weapon is only available in semi-automatic. CSR 50 – BOLT-ACTION PRECISION RIFLE In order to engage long-range targets, the CSR 50 is a bolt-action precision rifle equipped with the 12.7x99mm NATO cartridge. This lightweight match-grade rifle boasts a solid, monolithic aluminium receiver and a free-floating, heavy-contour barrel that ensures an unprecedented degree of accuracy. A COMMITMENT TO SUPPORT We are able to design and develop in-house products by merging ergonomics with tactical requirements of our clients. Our work demands the inclusion of disruptive technologies, autonomy, directed energy, and quantum computing, which our team of dedicated professionals helps achieve. In addition to offering our clients full technical assistance in maintaining and repairing weapon systems, we also provide basic to advanced training for armour and operators. Advanced technologies, such as additive manufacturing and CAD/CAM, enable us to continually enhance our products, providing superior performance and durability while meeting the evolving needs of our customers. We upgrade our weapons on a regular basis to ensure that they meet our customers' changing mission needs. As a result, our products deliver the firepower required for troops to effectively accomplish their missions. GROWTH ABROAD CARACAL has excelled in its pursuit of long-term profitability and fostering strategic relationships with stakeholders under the leadership of Hamad Alameri, CEO of CARACAL. Our relationship with our stakeholders and industry partners is based on transparency and trust to maintain strong working relationships and help ensure smooth operations. As a result of the international success of CARACAL weapons, there have been wholly-owned subsidiaries and joint ventures established in major markets. These companies reproduce CARACAL weapons, meeting local requirements. CARACAL USA CARACAL USA firearms range feature high-quality components, materials and testing procedures. These weapons provide reliability, durability, accuracy and impeccable performance even under the most extreme conditions. MERKEL As a leader in the production of hunting rifles in Europe, Merkel has more than 120 years of global expertise. The company combines advanced technological and time-tested manufacturing processes to produce all the important components of a gun. Merkel’s rigorous ballistic tests and quality control assures full precision. HAENEL Haenel has a team of world-class engineers, weapons technicians, and gunsmiths. Under the highest quality standards, the company manufactures key components such as barrels, closures, and lock bolts that ensure exceptional performance in every facet.",
+    "meta": {
+      "page_title": "Leading High-Performance Small Arms Manufacturer | Caracal",
+      "title": "CARACAL",
+      "type": "Article",
+      "description": "Discover Caracal's high-performance small arms and firearms. We provide world-class precision weapons for defense and law enforcement across the globe."
+    },
+    "first_seen": "2026-10-01T10:47:13+00:00",
+    "last_updated": "2026-10-01T10:47:13+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/caracal-light-ammunition",
+    "slug": "caracal-light-ammunition",
+    "name": "CARACAL LIGHT AMMUNITION",
+    "cluster": "",
+    "description": "Discover CLA’s high-precision small-calibre ammunition. We provide NATO-standard, reliable munitions for military, law enforcement, and commercial use.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/small-calibre"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/CLA-EN-Color.png.webp?itok=Q7XlPT8-",
+        "alt": "CLA",
+        "source": "content",
+        "local_path": "images/entities/caracal-light-ammunition/1515ee7c83feba8c.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/2026-05/cla_0.jpg",
+        "alt": "cla_0",
+        "source": "content",
+        "local_path": "images/entities/caracal-light-ammunition/6390fbdd088a7c7b.jpg"
+      }
+    ],
+    "body_text": "CARACAL LIGHT AMMUNITION Caracal Light Ammunition manufactures high-quality small-calibre ammunition and provides complete ammunition lifecycle services. View Products Precision Quality for Mission Reliability Caracal Light Ammunition innovates and manufactures exceptional-quality small-calibre ammunition with the highest precision and most consistent reliability Caracal Light Ammunition delivers military, law enforcement and civilian users with ammunition that reflects the highest levels of safety, reliability and accuracy. Through pioneering innovation in design and manufacturing, the company deliver safety, reliability, consistency and precision. With highly efficient, high-volume production capabilities in the UAE, the company can handle multiple customisation requests. Caracal Light Ammunition institutionalises quality at every step of the product development process with a regimen of testing and inspection that leverages state-of-the-art facilities, including a ballistics test area, chemical laboratory, materials testing laboratory and proof ranges. With these processes and facilities, the company has the resources to innovate and manufacture small-calibre products that customers know they can depend on to achieve their missions. These advanced processes ensure Caracal Light Ammunition can consistently produce munitions that meet the latest US-MIL SPEC, NATO and CIP specifications. Our Capabilities Manufacturing Assembly Testing Decommissioning Products 9 x 19mm Blank (MIL-SPEC Standards) 9 x 19mm Ball equivalent to (M882) (NATO and MIL-SPEG Standards) 5.56 x 45mm Blank (M200) (MIL-SPEC Standards) 5.56 x 45mm Ball (M855) (NATO and MIL-SPEC Standards) .223 (55 Grains) (MIL-SPEC Standards) 5.56 x 45mm Tracer (M856) (NATO and MIL-SPEC Standards) 7.62 x 51mm Blank (M82) (MIL-SPEC Standards) 7.62 x 51mm Ball (M80) (NATO and MIL-SPEC Standards) 7.62 x 51mm Tracer (M62) (NATO and MIL-SPEC Standards) 12.7 x 99mm /.50 BMG Ball (M33) (NATO and MIL-SPEC Standards) 12.7 x 99mm /.50 BMG Tracer (M17) (NATO and MIL-SPEC Standards) 12.7 x 99mm /.50 BMG API (M8) (NATO and MIL-SPEC Standards) 12.7 x 99mm /.50 BMG API-T (M20) (NATO and MIL-SPEC Standards) CERTIFICATES & POLICIES QUALITY POLICY STATEMENT DOWNLOAD OSH POLICY Download EMS POLICY Download ADPHC APPROVAL CERTIFICATE Download",
+    "meta": {
+      "page_title": "High-Quality Small-Calibre Ammunition Solutions | CLA",
+      "title": "CARACAL LIGHT AMMUNITION",
+      "type": "Article",
+      "description": "Discover CLA’s high-precision small-calibre ammunition. We provide NATO-standard, reliable munitions for military, law enforcement, and commercial use."
+    },
+    "first_seen": "2026-10-01T10:47:19+00:00",
+    "last_updated": "2026-10-01T10:47:19+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/condor",
+    "slug": "condor",
+    "name": "CONDOR",
+    "cluster": "",
+    "description": "Explore Condor’s range of non-lethal ammunition, grenades and tactical technologies designed to support law enforcement and security operations.",
+    "website": "https://www.condornaoletal.com.br/",
+    "product_urls": [],
+    "images": [],
+    "body_text": "CONDOR Condor is a global leader in the design and manufacture of cutting-edge non-lethal ammunition and high-tech pyrotechnics. Less than Lethal. More than Enough. Condor provides law enforcement, civil defence and security forces with non-lethal technologies to help preserve law and order, and protect lives. Established in Brazil in 1985, Condor Non-Lethal Technologies has become a global pioneer in the design and manufacture of cutting-edge non-lethal ammunition and high-tech pyrotechnics. Condor’s innovation helps law enforcement, civil defence and security forces preserve law and order, and protect lives. Condor has a large and growing catalogue of more than 120 non-lethal technologies, including ammunition, grenades, sprays, pyrotechnics and incapacitating electrical devices, as well as innovative delivery systems such as drones and launchers. The Condor Centre for Progressive and Proportional Use of Force (CEPROF) provides training services that include not only practical sessions on the use and deployment of all Condor products and delivery system, but also theoretical training on the progressive and proportionate use of non-lethal force. View Website Condor in numbers 35+ years in the market 120+ products in our portfolio 85+ international markets >1 million sqm production facility Products Grenades Ammunition Sprays Launchers Pyrotechnics Drones Training Lectures and demonstrations Non-Lethal Technologies (NLT) Instructor course Non-Lethal Technologies (NLT) Operator course SPARK Instructor course SPARK Operator course Express courses",
+    "meta": {
+      "page_title": "Condor Non-Lethal Ammunition & Pyrotechnics Solutions",
+      "title": "CONDOR",
+      "type": "Article",
+      "description": "Explore Condor’s range of non-lethal ammunition, grenades and tactical technologies designed to support law enforcement and security operations."
+    },
+    "first_seen": "2026-10-01T10:47:23+00:00",
+    "last_updated": "2026-10-01T10:47:23+00:00"
   },
   {
     "url": "https://edgegroup.ae/e-vendor",
@@ -143,7 +574,7 @@
         "source": "content"
       }
     ],
-    "body_text": "EDGE CORPORATE E-VENDOR PORTAL The EDGE Corporate E-Vendor Portal provides seamless collaboration and information exchange between suppliers and buyers, streamlining communication and enhancing efficiency. ABOUT E-VENDOR PORTAL E-Vendor is a user-friendly, intuitive self-serve supplier management portal. E-Vendor provides seamless collaboration and information exchange between EDGE suppliers and EDGE buyers, streamlining communications. E-Vendor will manage the end-to-end supplier lifecycle, including Supplier registration Purchase order collaboration Reporting capabilities for both EDGE buyers and our suppliers BENEFITS OF E-VENDOR PORTAL EDGE buyer and supplier communication, as well as supplier profile registration, will be managed entirely through the E-Vendor Portal. The portal enables suppliers to stay up to date with EDGE’s requirements, purchase orders, and receivables, leading to better planning and significantly reducing the need for phone and email communication. Similarly, it gives our procurement team clear visibility into order confirmations, dispatch plans, shipment details and delivery schedules. Key Benefits for Suppliers are: Seamless supplier onboarding process including workflows Simplified vendor management Greater transparency for suppliers into longer-term and near-term demands Collaborative platform providing visibility on purchasing documents Self-service capability for suppliers to submit updates SUPPLIER REGISTRATION IN E-VENDOR If you wish to offer your services to EDGE corporate, you may self-register on the E-Vendor Portal ( Click here ). file_download Purchase Order Confirmation Guide file_download Advanced Shipping Notice Guide file_download Service Entry Sheet Guide file_download Invoice Submission Guide file_download EDGE Business Partner Code of Conduct file_download e-Vendor FAQs file_download Step-by-Step Supplier Registration Guidelines REGISTERED SUPPLIERS Login to EDGE E-Vendor Portal with your registered email address Login If you have questions or are experiencing difficulty completing the E-Vendor registration form, please reach out to E-Vendor@EDGEgroup.ae",
+    "body_text": "EDGE CORPORATE E-VENDOR PORTAL The EDGE Corporate E-Vendor Portal provides seamless collaboration and information exchange between suppliers and buyers, streamlining communication and enhancing efficiency. ABOUT E-VENDOR PORTAL E-Vendor is a user-friendly, intuitive self-serve supplier management portal. E-Vendor provides seamless collaboration and information exchange between EDGE suppliers and EDGE buyers, streamlining communications. E-Vendor will manage the end-to-end supplier lifecycle, including Supplier registration Purchase order collaboration Reporting capabilities for both EDGE buyers and our suppliers BENEFITS OF E-VENDOR PORTAL EDGE buyer and supplier communication, as well as supplier profile registration, will be managed entirely through the E-Vendor Portal. The portal enables suppliers to stay up to date with EDGE’s requirements, purchase orders, and receivables, leading to better planning and significantly reducing the need for phone and email communication. Similarly, it gives our procurement team clear visibility into order confirmations, dispatch plans, shipment details and delivery schedules. Key Benefits for Suppliers are: Seamless supplier onboarding process including workflows Simplified vendor management Greater transparency for suppliers into longer-term and near-term demands Collaborative platform providing visibility on purchasing documents Self-service capability for suppliers to submit updates SUPPLIER REGISTRATION IN E-VENDOR SUPPLIER REGISTRATION VIDEO GUIDE If you wish to offer your services to EDGE corporate, you may self-register on the E-Vendor Portal ( Click here ). file_download Purchase Order Confirmation Guide file_download Advanced Shipping Notice Guide file_download Service Entry Sheet Guide file_download Invoice Submission Guide file_download EDGE Business Partner Code of Conduct file_download e-Vendor FAQs file_download Step-by-Step Supplier Registration Guidelines REGISTERED SUPPLIERS Login to EDGE E-Vendor Portal with your registered email address Login If you have questions or are experiencing difficulty completing the E-Vendor registration form, please reach out to E-Vendor@EDGEgroup.ae",
     "meta": {
       "page_title": "Edge Corporate E-Vendor Portal | Supplier Management Portal",
       "title": "E-Vendor",
@@ -151,7 +582,753 @@
       "description": "Gain access to purchase order collaboration, procurement reporting and direct communication with our buyers, register as an approved supplier to get."
     },
     "first_seen": "2026-07-03T17:50:53+00:00",
-    "last_updated": "2026-09-01T09:14:12+00:00"
+    "last_updated": "2026-10-01T10:47:27+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/earth",
+    "slug": "earth",
+    "name": "EARTH",
+    "cluster": "",
+    "description": "EARTH delivers defence procurement, engineering, systems integration, and mission support services with trusted OEM partnerships and turnkey solutions.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/EARTH%20English%20Colour.png.webp?itok=NT684h3E",
+        "alt": "EARTH",
+        "source": "content",
+        "local_path": "images/entities/earth/ef0ab56de06d29d7.webp"
+      }
+    ],
+    "body_text": "EARTH EARTH delivers force readiness through a portfolio of mission support and trading services, including comprehensive procurement and in-house turnkey engineering and integration solutions. Engineered Innovation. Protected Networks. EARTH provides defence and security forces with world-class procurement, engineering and systems integration, project management, and training . EARTH delivers force readiness through a portfolio of mission support and trading services, including comprehensive procurement through vetted and qualified suppliers and original equipment manufacturers (OEMs), and in-house turnkey engineering and integration solutions that bring together advanced systems, components and platforms. A subsidiary in the EDGE Commercial cluster of EDGE Group, EARTH maintains multi-decade relationships with key customers, and with global OEMs and other internationally respected suppliers. This deep understanding gives EARTH the necessary insights to develop or procure solutions for any mission. Capabilities Mission Support and Training : EARTH transforms customers’ field-generated and capability-planning requirements into mission-enabling platforms and systems that meet or exceed customer specifications for performance, reliability and durability. Business development : EARTH supports development of mission concepts of operations (CONOPS) through a turnkey solution that brings together advanced systems, components and platforms. Project management : EARTH provides project management solutions for efficient, timely performance, while also addressing risks, meeting business objectives, and delivering customer satisfaction. Procurement : EARTH provides full-service procurement solutions, including sourcing and quality assurance for wheeled and tracked platforms; air platforms; weapons and ammunition; maritime assets; C4ISR and EW; stand-up facilities; tactical equipment; and uniforms and clothing. Training : EARTH offers a range of training programmes for officers and enlisted personnel, asset operators, and others in defence, security and public safety organisations. Differentiators Speed and economy EARTH provides rapid turnaround times and cost-effective solutions to even the most complex turnkey engineering and systems integration work scopes. Local expertise EARTH has a significant UAE national workforce that gives a deeper understanding of the local and regional defence and security landscape. OEM relationships Industry-leading OEMs trust EARTH with some of the most advanced and critical technologies, systems and platforms in use today. Quality and reliability Every engineering, production and systems integration project that EARTH delivers is guaranteed to perform reliably and repeatedly as specified.",
+    "meta": {
+      "page_title": "Defence Procurement & Engineering Solutions | EARTH",
+      "title": "EARTH",
+      "type": "Article",
+      "description": "EARTH delivers defence procurement, engineering, systems integration, and mission support services with trusted OEM partnerships and turnkey solutions."
+    },
+    "first_seen": "2026-10-01T10:47:31+00:00",
+    "last_updated": "2026-10-01T10:47:31+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/epi",
+    "slug": "epi",
+    "name": "TOTAL PRECISION. TOTAL CONTROL",
+    "cluster": "",
+    "description": "EPI provides world-class precision engineering and machining solutions for the aerospace, defense, and oil and gas industries.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/manufacturing-engineering",
+      "https://edgegroup.ae/solutions/cutting-tool-manufacturing"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/EPI-EN.png.webp?itok=xwM5WSXe",
+        "alt": "EPI",
+        "source": "content",
+        "local_path": "images/entities/epi/8773bca8c1796e9f.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/epi.jpg.webp?itok=XnHOuiUs",
+        "alt": "EPI UAE - Precision Engineering Company",
+        "source": "content"
+      }
+    ],
+    "body_text": "TOTAL PRECISION. TOTAL CONTROL EPI is a key contributor of precision engineering to global Aerospace, Defence, and Oil & Gas industries. We provide solutions with industry-specific standards and our focus is on building precision manufacturing infrastructure. View Products Since its formation in 2007, EPI has been dedicated to manufacturing top-of-the-line complex engineered components. As a precision engineering company in the UAE, we continuously serve as the engineering backbone of the country's expanding defence and aerospace industries, as well as a key contributor to the oil and gas sectors. We support small arms manufacturing, and over the years, we gradually grew into one of the GCC’s leading precision engineering companies dedicated to the aerospace, defence, and oil and gas industries. At EPI, we transform initial designs to finished components through our comprehensive range of specialised technical services. These standard-driven precision engineering services cover engineering, machining, special processes, laboratories, and inspection, all of which are performed in our state-of-the-art manufacturing facilities in Abu Dhabi. Each of our precision engineering solutions is evaluated against industry-specific benchmarks and developed to satisfy stringent international quality standards. Today, we provide design enhancements and modifications in addition to manufacturing components. We re-engineer completed designs and existing components, all while maintaining a high level of quality and precision throughout the process. As part of EDGE in the EDGE Commercial cluster, EPI is committed to harnessing only the latest and most relevant technologies. We have evolved from our first four machines to an integrated suite of no less than 100 advanced machine and system tools, including the revolutionary CNC milling, CNC turning, chemical processing, non-destructive testing, shot peening, PVD coating, and plastic injection. Along with cutting-edge technology, we invest in the brightest brains in the industry. Our Industrial Engineers are trained to transform concepts into functional prototypes using precision engineering machine tools and a state-of-the-art measurement facility that ensures accuracy. With the best people and technology in the field, we are able to impart our expertise in all stages of the manufacturing process. In 2011, EPI was the first firm in the Gulf region to receive the EN/AS9100 Revision C accreditation, known as the aerospace industry's premier Quality Management System. We have also been certified as an ISO 9001:2015 company. With our strategic alliances with major worldwide companies, we have an advantage over other industry players, enabling us to strengthen our supply chains, skills, and experience, as well as develop new precision engineering solutions at our state-of-the-art facility. This also allows us to continue our commitment to deliver high-quality precision engineering services to market-leading regional and worldwide clients, including some of the world's largest aviation, defense, and oil & gas OEMs. CUTTING-EDGE MANUFACTURING ENGINEERING & MACHINING At EPI, we assist with product development throughout all stages, from early capacity assessments and prototyping all the way to final manufacturing and process design. These 21st century precision engineering solutions are made possible with our state-of-the-art machinery and competent team of CAD/CAM designers, programmers, tool makers, and application and manufacturing engineers. Included in our manufacturing engineering solutions are process capability studies, precision machining, prototyping, CAD/CAM programming, application engineering, manufacturing process design, and production process development. Meanwhile, our machining capabilities cover the following services: three-and five-axis milling machining soft and hard materials; turning; EDM, grinding; plastic injections; laser and TIG welding; rectification processes (three-point bending, roll forming, shot peening by ultrasonic and blasting); and assembly for faster installation, torqueing, bushing, and bearing installation, all of which are tailored to satisfy the most stringent industry standards. QUALITY AND PRECISION AT EVERY STEP EPI features a new surface treatment facility with an approximate 8000 square metre footprint, custom-built to accommodate a broad variety of special procedures and finishes. This facility comes complete with equipment capable of carrying out the following precision engineering services: Chemical cleaning on Al, Ti Anodizing (SAA, HAA, CAA, TSAA, BSAA) and Alodine Passivation Phosphating NDT (Penetrant Testing) Painting (water and solvent borne) and ink marking PDV coating Chemical analysis capability testing Titration pH Hydrogen determination Conductivity ICP Surface improvement using blasting, vibro polishing, shot peening Paint stripping by media plastic Carburising Plasma nitriding Tempering and annealing Process monitoring/performance evaluation Climate chamber Salt-spray chamber Paint adhesion testing HARNESSING LEADING-EDGE TECH From our cutting tools center equipped with advanced precision engineering technology, we manufacture cutting tools and re-sharpeners that are guaranteed to be of the highest quality and precision and ideal for a variety of operations, including milling, drilling, and reaming, among other things. On top of measuring and inspection of cutting tools, we provide custom-made cutting tools for all applications, five-axis cutter grinders for tool re-sharpening, self-measurement probes and 3D simulators, and manufacturing and re-sharpening services for carbide and HSS tools. Through our established Physical Vapour Deposition coating process, we provide a variety of standard and bespoke coatings. These top-of-the-line coating services enable our clients to maximize the life and performance of their equipment. INSPECTION AND LABORATORIES DRIVEN BY STANDARDS Continually monitoring and controlling all our products and production processes, our expert team guarantees that our precision engineering solutions satisfactorily fulfill our internal and external client requirements. That is why at EPI, we zero in on training our staff to get operator credentials and participate in reassessment programs, enabling us to increase the number of self-inspection deployments across departments. Our Statistical Process Control framework takes this a step further by optimizing sample techniques and redefining critical features necessary for compliance with our Quality Policy. Our inspection process is carried out using traditional inspection equipment, such as vernier calipers, micrometers, digital high-gage measuring equipment, Coordinate Measuring Machines (CMM), and hexagon machines equipped with PCDMIS for offline programming. Metallic Laboratory To achieve industrial standards, we are prepared to regulate the characteristics of materials, such as multiple aluminum grades, titanium, steel, and stainless steel. This is accomplished by strict supervision, which includes inbound inspections, thorough inspections during the components production stage, and post-heat-treatment processes evaluation. Among our test capa are the following: Material surface hardness with machines capable of Vickers, Knop, and Rockwell A, B, C techniques Analysis of case-depth hardness (white layer) and microstructure (including moulding) Analysis of chemicals using spark optical emission spectrometer (OES) Non-ferrous material electrical conductivity measurement (aluminum grade/Eddy currents) Calibration Lab Within our scope of processes, our highly skilled team performs in-house equipment calibration that may involve dimension forces, torques, electrical systems, and furnaces. Our calibration service is administered through a dedicated software platform, monitoring all associated data and notifications. This enables equipment to be recalled within the stipulated verification time.",
+    "meta": {
+      "page_title": "Precision Engineering & Machining Solutions | EPI",
+      "title": "EPI",
+      "type": "Article",
+      "description": "EPI provides world-class precision engineering and machining solutions for the aerospace, defense, and oil and gas industries."
+    },
+    "first_seen": "2026-10-01T10:47:35+00:00",
+    "last_updated": "2026-10-01T10:47:35+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/etimad",
+    "slug": "etimad",
+    "name": "ETIMAD",
+    "cluster": "",
+    "description": "ETIMAD delivers advanced security, systems integration, and mission-critical solutions for defence, infrastructure, and government sectors.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/ETIMAD-EN-Color.png.webp?itok=VqFyfRNk",
+        "alt": "ETIMAD",
+        "source": "content",
+        "local_path": "images/entities/etimad/2f78afa4e060df24.webp"
+      }
+    ],
+    "body_text": "ETIMAD ETIMAD provides advanced technology solutions that protect borders, infrastructure and people. Advanced Technology. Enhanced Security. ETIMAD is a leading provider of cutting-edge technologies and systems that deliver mission-critical protection capabilities for borders, instillations and people. Etimad Holding is an advanced technology solutions and services company with unmatched expertise in security, systems integration, and project fulfilment and execution. We provide exceptional service to UAE and regional customers primarily operating in the fields of defence, government, transportation, communications, shipping and ports, and energy, oil & gas. Headquartered in the UAE, Etimad Holding operates through 11 subsidiaries that are industry leaders in their fields. By leveraging highly skilled professionals coming from across the globe and diverse fields, these companies deliver customised solutions that address complex customer requirements. Our expertise IT and power infrastructure Project management Critical security infrastructure System integration Software and hardware solutions Integrated logistics solutions Maintenance Sector we serve Border security : providing smart security that leverages advanced sensor and monitoring technologies and sophisticated software adaptable to all border types, terrains and populations. Our solutions prevent incursions while permitting vetted two-way traffic Law enforcement : combining the principles of community policing, predictive policing, intelligence-led policing and other proven models to optimise information exchange for effectively prevention and response to criminal activities. Critical infrastructure : analysing fused data from sensors, databases and the web to detect, deter, prevent and manage any breach of security or safety. Traffic management : providing integrated real-time view of all transportation components by correlating current conditions with historical data and future projections, as well as live data from diverse sensors. Cyber security : incorporating a cyber-intelligence system, a security operations centre, a cyber-campaign training simulator, forensics capabilities, and training and exercises. Urban management: offering a complete portfolio of products and solutions to effectively manage today’s complex urban environment – from emergency response and transportation management to environmental monitoring and cyber defence. Safe cities : leveraging cutting-edge technology, and data gathering and analytics capabilities to effectively manage and secure urban environments, reduce crime, increase the well-being of citizens and employees, and bolster economic growth.",
+    "meta": {
+      "page_title": "Etimad: Advanced Solutions for Homeland Security",
+      "title": "ETIMAD",
+      "type": "Article",
+      "description": "ETIMAD delivers advanced security, systems integration, and mission-critical solutions for defence, infrastructure, and government sectors."
+    },
+    "first_seen": "2026-10-01T10:47:39+00:00",
+    "last_updated": "2026-10-01T10:47:39+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/fada",
+    "slug": "fada",
+    "name": "FADA",
+    "cluster": "",
+    "description": "Explore Fada by EDGE, a leader in sovereign space technology. We offer advanced satellite systems, remote sensing, and secure space-based solutions.",
+    "website": "https://fadaspace.com/",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/synthetic-aperture-radar-satellite-sirb"
+    ],
+    "images": [],
+    "body_text": "FADA FADA produces state-of-the-art satellite subsystems and ground stations, and develops advanced satellite cybersecurity, and space-based remote sensing technologies. Unlimited Innovation for an Unbounded Frontier. FADA develops and manufactures advanced space-based platform and system technologies FADA develops UAE-sovereign space IP and expertise in the domestic manufacture, assembly, integration, testing, and operation of cutting-edge satellite systems, payloads and platform subsystems. The company will provide end-to-end solutions and services to local and international customers, including Synthetic Aperture Radar (SAR) , Optical (EO) and Infrared (IR) payloads, as well as satellite platforms, and satellite cybersecurity and protection services in addition to other space activities. FADA is leveraging national and international partnerships to foster Transfer of Technology (ToT) and Transfer of Knowledge (ToK) arrangements that will complement domestic IP to establish a self-reliant sovereign space sector that can support national and commercial requirements and keep the UAE at the cutting-edge of space innovation and technology. VISIT WEBSITE OUR CAPABILITIES Manufacture, assemble, integrate and test satellite payloads and platform subsystems Satellite cybersecurity and protection services and solutions Data processing and commercialisation Space training and consultancy Space situational awareness Space early warning systems Navigation GNSS Synthetic aperture radar (SAR) Optics including multispectral Infrared Satellite terminals",
+    "meta": {
+      "page_title": "Advanced Solutions for Aerospace and Defence | FADA",
+      "title": "FADA",
+      "type": "Article",
+      "description": "Explore Fada by EDGE, a leader in sovereign space technology. We offer advanced satellite systems, remote sensing, and secure space-based solutions."
+    },
+    "first_seen": "2026-10-01T10:47:43+00:00",
+    "last_updated": "2026-10-01T10:47:43+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/gradeone",
+    "slug": "gradeone",
+    "name": "GRADEONE",
+    "cluster": "",
+    "description": "We at Gradeone are Specialists in defence procurement delivering military equipment, ammunition and pyrotechnics to armed forces and security.",
+    "website": "",
+    "product_urls": [],
+    "images": [],
+    "body_text": "GRADEONE GRADEONE Group acquires military hardware, equipment, pyrotechnics, ammunition, and other supplies for the UAE Armed Forces and other critical UAE entities. Flawless Procurement and Provisioning GRADEONE Group procures military hardware, equipment, pyrotechnics, ammunition, and other supplies for the UAE Armed Forces and other critical UAE entities. GRADEONE Group fosters readiness through the provision of military hardware, equipment, pyrotechnics, ammunition, and other supplies to the UAE Armed Forces, Special Forces, law enforcement and civil defence. We also provide a range of consulting and training services in our fields of expertise, and sell sporting and hunting equipment, supplies and accessories to civilian customers. GRADEONE leverages its in-house expertise and expansive partnerships with international suppliers to deliver innovative and structured solutions that deliver against even the most rigorous customer specifications and requirements. Industries Armed Forces Air Force Navy Special Forces Law enforcement Civil defence Hunting and sporting Consulting and training services Group companies GRADEONE Group operates through several subsidiaries, each of which brings unique expertise and a deep understanding of their market and customer needs. MP3 International Military weapons Military ammunitions Military training Consulting services Civil defence equipment MP3 Industrial Solutions Manufacturing of precision defence products Manufacturing of aerospace products Large-size military packaging Weapons and ammunitions packaging MP3 X: Sporting, Hunting & Lifestyle Vintage rifles Hunting and sporting rifles Vintage handguns Handguns Optics Light ammunition NST (NEWCO Safety Technologies) Pyrotechnics technology development SWAT and special forces training Consulting services Weapons repair and maintenance The Lodge (at Al Forsan International Sports Resort in Abu Dhabi) Hunting and sporting accessories and clothing Hunting and sporting knives Optics Light ammunitions",
+    "meta": {
+      "page_title": "GRADEONE Group Defence Procurement Solutions | Edge",
+      "title": "GRADEONE",
+      "type": "Article",
+      "description": "We at Gradeone are Specialists in defence procurement delivering military equipment, ammunition and pyrotechnics to armed forces and security."
+    },
+    "first_seen": "2026-10-01T10:47:46+00:00",
+    "last_updated": "2026-10-01T10:47:46+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/halcon",
+    "slug": "halcon",
+    "name": "PRECISION. ACCURACY. PERFORMANCE",
+    "cluster": "",
+    "description": "HALCON is a leader in precision-guided munitions and weapon systems. Explore our advanced missiles, loitering munitions, and cutting-edge defense tech.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/thunder-p-31",
+      "https://edgegroup.ae/solutions/thunder-p-32",
+      "https://edgegroup.ae/solutions/shadow-25",
+      "https://edgegroup.ae/solutions/shadow-50"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-06/Halcon-EN.png.webp?itok=y1j2oM2N",
+        "alt": "Halcon",
+        "source": "content",
+        "local_path": "images/entities/halcon/4b382b3b5d1aa602.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/halcon%20%281%29.jpg.webp?itok=t4JorTyB",
+        "alt": "Halcon Abu Dhabi, UAE - Precision-guided System Manufacturers",
+        "source": "content"
+      }
+    ],
+    "body_text": "PRECISION. ACCURACY. PERFORMANCE Halcon is a regional leader in the end-to-end manufacturing of precision-guided systems & Munitions providing cost-effective systems that delivers reliability & accuracy View Products As the regional leader in precision weapon systems manufacturing, HALCON develops cost-effective and reliable products with the guaranteed accuracy you need to achieve tactical and operational goals. With our in-house capabilities across the production value chain, we also provide advisory, automation & robotics consulting services, and special manufacturing solutions. We have been part of EDGE’s Missiles & Weapons cluster since 2017 and offer next-generation precision-guided munition and robotics expertise geared to help you face the challenges of a rapidly changing world. DEVELOPING TECHNOLOGIES THAT KEEP YOU AHEAD HALCON’s in-house expertise has been developed across the entire gravity-release bomb guidance systems’ value chain, which includes the design process, development, testing, manufacturing, and assembly. Our work as precision-guided system developers begins with the research and development that takes place, incorporating customer requirements and market trends. Our world-class production facilities then deliver high-precision, high-tolerance components, and subsystems that are then completed through HALCON’s full assembly line services. As a result, we provide systems with the highest performance, reliability, and safety. Our capabilities include: Assembly and Integration Development of Actuator Mechanism Developments Gravity Released Weapons Gravity-released Weapons Systems & Sub-system Development Research and Development Safety & Arming Units & Fuzes Systems and Sub-system Development Testing Labs Warhead Design and Development ADVANCED MANUFACTURING FOR ADVANCED SYSTEMS Testing Labs We have developed one of the region’s most advanced R&D and testing laboratories, which are fully equipped with tailored facilities that fully address the aspects of the design, manufacturing, and performance testing of precision ammunition and related technologies. HALCON generates advanced IP for the design of new products, the optimisation of current manufacturing, assembly processes, and systems. Our state-of-the-art labs make it possible to operate with optimum speed and agility when developing and customising products by avoiding the need to send products abroad for testing. SPECIALISING IN LOCALLY-ENGINEERED AUTOMATION & ROBOTICS The 400 As we expand our UAE-based manufacturing and design of guided systems as well as their enabling technologies, HALCON has a growing requirement for home-grown engineers. As we continue to attract the most qualified talent from across the globe, our main goal with The 400 is to hire 400 Emirati engineers within the next 10 years. In order to achieve this, we are continuing to reach out to secondary and tertiary academic institutions within the region in order to identify and engage Emirati youth early. Additionally, we fund international university studies for UAE nationals who are talented and motivated as well as work with human capital, building entities within the region in order to expand the pipeline of the Emirati youth being ushered into the engineering field and roles with companies such as our own. LEADING-EDGE WEAPONS SYSTEM Exceptional Capabilities All HALCON systems are tested and delivered in compliance with world-class military standards to ensure the compatibility, safety, and performance of what we have to offer as precision-guided systems providers. This includes MIL-STD-810 for material design, MIL-STD-461 to ensure that no electromagnetic interference takes place, MIL-STD-1315 for fuze design safety, and NATO STANAG 3531. We are also proud to be capable of providing: End-to-end Machining Capabilities from parts as small as three cubic millimetres (3 mm) to pieces up to a half a metre in length Expertise in Manufacturing Both Electrical and Mechanical Components The UAE’s Only Cathodic Electrodeposition (CED) Coating Facility RAPID DELIVERY. DETERMINED DEFENCES Guided-Weapon Systems HALCON specialises in the production of two lines of drop-launched, unpropelled, precision-guidance kit systems that use an aerodynamic tail control in order to guide back-range, cross-range, and down-range directioning for these air-to-surface kits. However, we also offer a variety of surface-to-surface, surface-to-air, air-to-surface, and loitering attack drones: Surface to Surface HAS - 250 (Anti-Ship Missile) Nassef (Ground Launch) Low-cost Guided Imaging Rocket (LOGIR) SHADOW - 25 SHADOW - 50 RW - 24 Surface to Air SKYNEX SKYKNIGHT Air to Surface The Thunder system is designed to provide precision-guided munition for NATO STD warheads of MK81 (P31), MK82 (P32), and MK84 GP aerial munitions. It represents a short-range, cost-effective guided bomb kit system. The Thunder kits combine inertial guidance augmented by global navigation satellite system (GNSS) information (GAINS) measurements in order to be guided to a pre-programmed target set of coordinates. Additionally, a semi-active laser (SAL) seeker can be fitted in order to enhance precision. We offer the Thunder kit in P31 , P32 , and P4 configurations: Thunder P - 4 Thunder (P - 31) Thunder ( P- 32) Other air-to-surface HALCON products include: Desert Sting (DS) - 5 DS - 8 DS - 16 DS - 25 Desert Sting Racks - Single, Dual, and Quad Nassel (Air Launch) LOGIR Airborn Launcher Loitering Attack Drones SHADOW - 25 SHADOW - 50 RW - 24 DELIVERING PRECISION R/C Systems We also have the 7IS Remote Control Weapon Station (RCWS) available, which provides remote operators with a panoramic view as a two-axis, servo-controlled, stabilised gimbal system. The 7IS offers 360° rotation capability and can simultaneously traverse and elevate to angular positions as demanded. The system is capable of operating at all times, no matter what condition, stationary and in-motion. ACCURATE DELIVERY Sub Systems As precision guided system developers, we offer the following subsystems: Seekers Power packs Servo Motors Special Parts Fuzes Warheads Turbojet Engines",
+    "meta": {
+      "page_title": "Leader in Precision-Guided Weapons Systems | Halcon",
+      "title": "HALCON",
+      "type": "Article",
+      "description": "HALCON is a leader in precision-guided munitions and weapon systems. Explore our advanced missiles, loitering munitions, and cutting-edge defense tech."
+    },
+    "first_seen": "2026-10-01T10:47:51+00:00",
+    "last_updated": "2026-10-01T10:47:51+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/horizon",
+    "slug": "horizon",
+    "name": "HIGH FLYING. SKILL BUILDING",
+    "cluster": "",
+    "description": "Train at Horizon, the premier military pilot training academy. We offer world-class flight instruction and advanced programs for aspiring aviators. Explore more.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/Horizon-English-Colour.png.webp?itok=xIoQlwxt",
+        "alt": "Horizon EN",
+        "source": "content",
+        "local_path": "images/entities/horizon/07603509fd201d0d.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/horizon.jpg.webp?itok=BC9irKLz",
+        "alt": "horizon",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2026-07/fj1_5280simulator.jpg.webp?itok=HfefAjjE",
+        "alt": "fj1_5280simulator",
+        "source": "content",
+        "local_path": "images/entities/horizon/788ea61d8868fedb.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/dscf4215.jpg.webp?itok=ZLVZ2g6o",
+        "alt": "Single- and twin-engine",
+        "source": "content",
+        "local_path": "images/entities/horizon/916dc7c5ccf51f89.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/fj-1-55273x.jpg.webp?itok=yqaT60kE",
+        "alt": "Specialised aviation training",
+        "source": "content",
+        "local_path": "images/entities/horizon/05cc9a3b29714bd1.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/capability-2.png.webp?itok=ll2poOHl",
+        "alt": "Aviation English training",
+        "source": "content",
+        "local_path": "images/entities/horizon/b7917966252b982a.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/capability-3.png.webp?itok=fL17dqdf",
+        "alt": "English proficiency pilot testing assembly",
+        "source": "content",
+        "local_path": "images/entities/horizon/edfac3a500cb1405.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/twin-engine-air-transport-pilot-license-03.jpg.webp?itok=hF6IPw-m",
+        "alt": "Regional expertise and understanding",
+        "source": "content",
+        "local_path": "images/entities/horizon/8d47a723d2ac6961.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/about-banner.jpg.webp?itok=_exOhH99",
+        "alt": "Comprehensive course offerings",
+        "source": "content",
+        "local_path": "images/entities/horizon/3c309b84e57572e3.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/7.jpg.webp?itok=N4NMmaCv",
+        "alt": "Advanced simulator",
+        "source": "content",
+        "local_path": "images/entities/horizon/86dc0405744eb6bb.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2026-07/4.jpg.webp?itok=TvNFgHYN",
+        "alt": "English proficiency pilot testing assembly",
+        "source": "content",
+        "local_path": "images/entities/horizon/dfedfae38a8ae313.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2026-07/servicespagebanner.jpg.webp?itok=ybH76lx-",
+        "alt": "Air Transport Pilot",
+        "source": "content",
+        "local_path": "images/entities/horizon/dfec6a3ae5540412.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2026-07/single-engine-private-pilot-license-02.jpg.webp?itok=2chEXK0u",
+        "alt": "single-engine-private-pilot-license",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2026-07/qualified-military-pilot-bridge-course-qmp.jpg.webp?itok=Fz8LrCGw",
+        "alt": "qualified-military-pilot-bridge-course",
+        "source": "content"
+      }
+    ],
+    "body_text": "HIGH FLYING. SKILL BUILDING HORIZON is the region’s largest independent helicopter flight training academy offering standard and bespoke rotary-wing training to commercial and defence helicopter pilots. View Products About Us HORIZON delivers advanced rotary-wing training programmes designed to build pilot capability and enhance operational flexibility. Extensive curricula We offer standard and bespoke rotary-wing training to leading commercial aviation and defence operators. All curricula are delivered to the highest standards of safety, quality and efficiency, in compliance with the requirements of the UAE General Civil Aviation Authority (GCAA). Tailored training Working closely with customers, we deliver training programmes to meet specific piloting requirements at our state-of-the-art facilities, led by experienced instructors. We continually expand our course offerings, innovative training technologies, and world-class partners. Core Capabilities Single and twin-engine helicopter pilot training – basic and advanced Specialised aviation training Aviation English training English proficiency pilot testing assembly Key Advantages Regional expertise and understanding Comprehensive course offerings Advanced simulator English proficiency pilot testing assembly Courses We provide helicopter pilot training courses from beginner to advanced levels, delivered at state-of-the-art facilities by experienced instructors to the highest standards of safety, quality and efficiency. TWIN-ENGINE Air Transport Pilot Licence ATPL (H) Instrument Rating (twin engine) Twin-Engine Conversion and Multi-Crew Coordination (Military) Night Rating (NR) Night Vision Goggles (NVG) AVIATION COURSES We deliver in-depth aviation courses that combine practical and theoretical instruction. Flight Safety Aviation Ground Safety Aircraft Accident Investigation and Management Aviation Management Crew Resource Management Management of Flight Safety and Accident Investigation SINGLE-ENGINE Private Pilot Licence – Helicopter (PPL) Commercial Pilot Licence – Helicopter (CPL) Flight Instructor – Helicopter (FI) Qualified Military Pilot Bridge Course – Helicopter (QMP) Instrument Rating (IR) Type Rating (TR) Night Rating (NR) English Language Proficiency Training Facilities Our 5,000 sqm purpose-built flight-training facility in Al Ain, Abu Dhabi, provides students with state-of-the-art training aids and industry-leading resources. 19 helipads Favourable weather conditions maximise flying time Arid terrain enabling realistic training scenarios such as: Limited power Mountain flying Desert conditions Simulator Dual-place, side-by-side cockpit Complete instrument panel for visual and instrument training Software provides realistic flight models with: Translational lift Ground effect Torque Auto-rotation 24,000+ airports All navigation aids",
+    "meta": {
+      "page_title": "Horizon: Advanced Military Pilot Training Academy",
+      "title": "HORIZON",
+      "type": "Article",
+      "description": "Train at Horizon, the premier military pilot training academy. We offer world-class flight instruction and advanced programs for aspiring aviators. Explore more."
+    },
+    "first_seen": "2026-10-01T10:48:05+00:00",
+    "last_updated": "2026-10-01T10:48:05+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/katim",
+    "slug": "katim",
+    "name": "PROTECTING AND SECURING THE NATION AND THE WORLD",
+    "cluster": "",
+    "description": "Discover Katim's ultra-secure communication solutions. We provide advanced, encrypted mobile devices and network security for governments and businesses.",
+    "website": "https://katim.com/",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/katim-gateway-9001-r"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2023-02/banner-bg01.jpg.webp?itok=T1X7_f-r",
+        "alt": "Katim UAE - Secure Communication Solutions",
+        "source": "content"
+      }
+    ],
+    "body_text": "PROTECTING AND SECURING THE NATION AND THE WORLD KATIM is a leader in the development of innovative secure communication products and solutions for governments and businesses. KATIM is a leading developer of innovative, ultra-secure communication products for governments and businesses around the world. We deliver trust in a modern world where cyber risks are an ever-evolving threat. View website WHO ARE WE Part of EDGE’s Space & Cyber Technologies cluster, KATIM develops cutting-edge solutions that integrate UAE-developed cryptography and postquantum capabilities to secure critical communications of governments and businesses. We work with the world’s finest industry professionals to protect and secure our nation and the world with our products and solutions developed in the following categories: Networks, Ultra Secure Mobile Devices, Ultra Secure Applications, and Satellite Communications. Based in Abu Dhabi, KATIM accelerates digital advancement, nurtures next-generation talent, and curates advanced innovations to solve the most difficult digital challenges for its customers. A GLIMPSE OF KATIM EXPERTISE The threat landscape has evolved. Data is constantly on the-move and it is no longer confined to internal networks. KATIM is the trusted comprehensive response to safeguarding people and data in customers’ organisations. Our strength resides in our proven competence and capability to deliver security, safety, and resilience. KATIM works with the brightest minds from around the world; we have Research & Development centres in UAE and Finland to continuously develop and integrate the latest technologies in our products and solutions. KATIM has more than 50 patents on innovations, contributed to various Internet Engineering Task Force (IETF) Request for Comments (RFC), and has been awarded recognition from industry household names like Bell Labs. OUR PHILOSOPHY: SECURE-BY-DESIGN The industry spends much of its time and resources pushing solutions to market, adding security as a feature in the production phase and letting customers deal with the damage and costs of fixing vulnerabilities in later stages. KATIM embodies a holistic secure-by-design approach to deliver compromise-free, foundationally-secure products and solutions, eliminating issues and risk, and reducing costs for end users. Our Secure-by-Design methodology makes it easier for customers to have a significantly more secure posture, making security more effective. OUR PRODUCTS KATIM for End User Communication Security KATIM X3M – Ultra-Secure Smartphone for Government, Defence & Critical Communications The KATIM X3M is an ultra-secure smartphone designed for government agencies, military personnel, and critical infrastructure teams who require secure mobile communications in the most demanding environments. Built with military-grade durability (MIL-STD 810H, IP68) and advanced encryption, the KATIM X3M protects sensitive data and voice communications against cyber threats. It features modular hardware extensions for field operations, including push-to-talk and C4i system integration. Key Features: End-to-end encryption and secure microcontroller 6.5” AMOLED FHD+ display with Gorilla® Victus® glass Supports 5G, Wi-Fi 6E, GNSS, and Bluetooth 5.3 Rugged, mission-ready design with modular add-ons Use KATIM X3M for secure government communications, military field operations, and high-security mobile use cases. KATIM Application Suite Created for organisations that require sensitive data to remain private, secure and trusted at all times – in transit, at rest, or wherever it may be in a communication channel – KATIM Application Suite provides a necessary additional layer of protection for the most security-sensitive organisations. The KATIM Application Suite consists of applications that secure data messaging, voice communication, video conferencing, and file transfer, available on most platforms. KATIM INFRASTRUCTURE SECURITY KATIM Infrastructure Security solutions provide unparalleled network security and integrate custom crypto and postquantum capabilities for next generation data-in-transit, client infrastructure, and end-user identity security. KATIM Infrastructure Security solutions replace existing, outdated, and untrusted network security solutions for governments and military sectors with trusted, anti-tamper, ultra-secure, and competitive networking components: software-programmable KATIM Gateway 9011, 9001, 9001-R(ruggedised) hardware platforms for L2 or L3 encryption, and Network Management Suite. Our infrastructure security solutions are rapidly deployable for a smooth roll-out of any IT service/application with modern network security. The backbone of ultra-secure communication, KATIM Gateway 9011, ensures customers are ready for the post-quantum era with bespoke sovereign cybersecurity solutions. KATIM Gateway 9011 hardware has been designed to meet FIPS 140-2 Level 4 criteria.",
+    "meta": {
+      "page_title": "Secure Communication & Cyber Solutions | Katim",
+      "title": "KATIM",
+      "type": "Article",
+      "description": "Discover Katim's ultra-secure communication solutions. We provide advanced, encrypted mobile devices and network security for governments and businesses."
+    },
+    "first_seen": "2026-10-01T10:48:09+00:00",
+    "last_updated": "2026-10-01T10:48:09+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/lahab",
+    "slug": "lahab",
+    "name": "INNOVATING MUNITIONS DEVELOPING CAPABILITIES",
+    "cluster": "",
+    "description": "Explore Lahab Defence Systems (LDS), the UAE's sole manufacturer of medium and large calibre munitions. Discover our advanced defense solutions.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-08/lahab-gray-en.webp?itok=OXRi2ZD5",
+        "alt": "Lahab",
+        "source": "content",
+        "local_path": "images/entities/lahab/b6e17046b8a8ba1e.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/lahab-defence.jpg.webp?itok=RKnHzBfV",
+        "alt": "Lahab Defence System - Medium and Large Calibre Munitions Manufacturer UAE",
+        "source": "content"
+      }
+    ],
+    "body_text": "INNOVATING MUNITIONS DEVELOPING CAPABILITIES LAHAB manufactures medium and large calibre munitions. We are in the industry with over 25 years of experience in leading defence & security organisations. View Products As the UAE’s sole munitions manufacturer, LAHAB is committed to modernising the entire munitions value chain with its 25+ years of knowledge and experience. We support major defence and security organisations, law enforcement agencies, and sports clients, supplying them with reliable and safe munitions and services. By using cutting-edge technology and sophisticated manufacturing capabilities, LAHAB provides professional assistance throughout the munitions lifecycle - from assembly through decommissioning and far beyond. As a part of EDGE's Missiles and Weapons cluster, we leverage our Continuous Improvement Programme to embrace emerging technologies like process optimisation and, in the future, robotics manufacturing with high-precision tools. LAHAB for large and medium calibre munitions and weapons systems. INNOVATING MUNITIONS, DEVELOPING CAPABILITIES One of the leading defence contractors in UAE, LAHAB innovates and enhances the capabilities of the armed forces and the broader defence industry in the UAE and across the region. We develop, produce, and test a variety of advanced medium and large calibre munitions - ranging from grenade to artillery ammunition - all while adhering to the strictest safety and environmental requirements. At LAHAB, we are well-equipped to examine and test ammunition. There are two ballistic test facilities located on LAHAB premises:​ the Ballistic Testing Lab, which includes two indoor shooting ranges for the assessment of small arms ammunition and anti-ballistic materials, and the Open Ballistic Shooting Range, which is tailored to test small and medium calibre munitions. ​ Also included in LAHAB's facilities are a chemical laboratory and an x-ray lab. Both of these facilities operate to world-class standards and are certified and licensed by the relevant authorities to guarantee that we continue to offer reliable, high-performance products. Innovating medium to large calibre munitions for tomorrow's front lines, our production and assembly capabilities are among the region’s most varied and efficient. This means that we can respond flexibly to unique mission-specific customisation requirements. To top it off, LAHAB aligns itself with the highest standards as it relates to quality. Our internal QHSE management systems are audited annually to verify their effectiveness and compliance with applicable regulations. Our newly remodelled facility has state-of-the-art machine tools that enable us to achieve high production and excellent quality throughout our entire product line. Backed by our precise equipment and sophisticated procedures, we manufacture high-performing products that satisfy US-MIL SPEC, NATO, and CIP standards. Products include 40x46 mm LV ammunition, 40 mm grenades, 60mm mortar, 40x53mm ammunition, and 81mm HE mortars. We also prioritise our planet. Our road map to success is closely linked to our environmental goals.",
+    "meta": {
+      "page_title": "Advanced Medium and Large Calibre Munitions | LDS",
+      "title": "LAHAB",
+      "type": "Article",
+      "description": "Explore Lahab Defence Systems (LDS), the UAE's sole manufacturer of medium and large calibre munitions. Discover our advanced defense solutions."
+    },
+    "first_seen": "2026-10-01T10:48:13+00:00",
+    "last_updated": "2026-10-01T10:48:13+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/nimr",
+    "slug": "nimr",
+    "name": "NIMR ARMOURED VEHICLES",
+    "cluster": "",
+    "description": "Explore NIMR's world-class 4x4 and 6x6 military vehicles. We offer combat-proven tactical solutions for the most demanding mission environments.",
+    "website": "https://nimr.ae",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/ajban-mk2",
+      "https://edgegroup.ae/solutions/hafeet-mk2"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/nimr_0.jpg.webp?itok=8rvC9oKY",
+        "alt": "NIMR UAE - Armored Military Vehicles Manufacturer",
+        "source": "content"
+      }
+    ],
+    "body_text": "NIMR ARMOURED VEHICLES NIMR is a leading manufacturer of combat-proven light and medium-weight wheeled Armored military vehicles with complete in-house design and production capability for a variety of platforms to meet a diverse range of user requirements. YOUR SAFETY, OUR PRIORITY NIMR is the UAE’s leading armoured vehicle manufacturer, with over 20 years of industry experience. Safety and customer satisfaction are at the forefront of what we do. We provide high-quality armours, superior performance, and state-of-the-art military vehicle solutions. At NIMR, we offer a broad range of light- and medium-weight wheeled military platforms. Our 4x4 and 6x6 armoured fighting vehicles show longevity and mobility with excellent style and a high level of comfort in the most extreme conditions. Designed and engineered to meet the most demanding duty-cycle requirements, the monocoque architecture offers a higher degree of body rigidity that contributes to greater agility and responsiveness. Visit Website CHURNING THE WHEELS Our expertise in the armoured vehicles industry stems from leveraging cutting-edge military-grade technology. We take pride in using the latest simulation tools and techniques while effectively boosting our production capacity. Our world-class team of skilled and proficient engineers use the most advanced technology and enhanced systems to best suit operational needs. We exceed our clients’ expectations and ensure the secure deployment of vehicles. In addition to this, we have made significant investments in-house to improve the next generation of advanced vehicles for the region’s armed forces. The modular design of our platforms promises the seamless integration of a variety of weapon and mission systems providing end-users with a true multirole capability. We provide combat-proven vehicles and deliver products that meet stringent international standards. NIMR Brochures AJBAN ISV EN AJBAN LRSOV AJBAN MK2 HAFEET MK2 JAIS CLASS AJBAN 441A / 441AE",
+    "meta": {
+      "page_title": "Leading Military Armored Vehicle Manufacturer | NIMR",
+      "title": "NIMR",
+      "type": "Article",
+      "description": "Explore NIMR's world-class 4x4 and 6x6 military vehicles. We offer combat-proven tactical solutions for the most demanding mission environments."
+    },
+    "first_seen": "2026-10-01T10:48:17+00:00",
+    "last_updated": "2026-10-01T10:48:17+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/oryxlabs",
+    "slug": "oryxlabs",
+    "name": "ORYXLABS",
+    "cluster": "",
+    "description": "Secure your digital assets with Oryx Labs. We provide advanced cybersecurity and risk protection solutions to safeguard your organization's critical data.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/ORYXLABS-EN.png.webp?itok=GJvCPeTl",
+        "alt": "ORYXLABS",
+        "source": "content",
+        "local_path": "images/entities/oryxlabs/0b74cf47f6a378db.webp"
+      }
+    ],
+    "body_text": "ORYXLABS ORYXLABS provides enterprises with a holistic and digital approach to monitoring, protecting and improving their networked environments. View Products Engineered Innovation. Protected Networks. ORYXLABS provides enterprises with a holistic and digital approach to monitoring, protecting and improving their networked environments. ORYXLABS provides advanced digital solutions that help enterprises monitor, protect and improve their networked environments. Through products focused on risk assessment and DNS-based monitoring and protection, ORYXLABS equips enterprise cyber-security teams with best-in-class intelligence and technical solutions to help prevent future attacks. Founded in 2020 in Abu Dhabi, ORYXLABS to address a gap in the market for an agile cyber security-focused engineering firm that could deliver tailored solutions for unique client requirements. We leverage knowledge, research and a diverse team with backgrounds ranging from defence to global tech pioneers to generate innovative products in four key areas: Cyber-security assessment Monitoring Prevention Improvement. Industry-leading SaaS DISCOVERY : a digital risk protection solution that provides a holistic, continuous approach to cyber situational awareness, vulnerability assessment, threat intelligence monitoring, and attack simulation at a national scale. DNS Firewall : a secure DNS solution that provides an easy and cost-effective way to stop malicious attacks, protect privacy, and control internet usage from a single platform, without deploying hardware or software. Why ORYXLABS ? UAE Sovereign : the only sovereign-owned UAE entity providing DNS-focused cyber solutions, a critical consideration given the solution’s visibility into customer DNS requests. Customisation : nimble enough to prioritise product customisations to meet unique organisational and operational requirements and requests. Scalable : designed to scale, our products are built to grow seamlessly and frictionlessly alongside your organisation and its needs. Easy : intuitive user interface, no additional hardware required, and with simple implementation and operation.",
+    "meta": {
+      "page_title": "Advanced Cybersecurity and Risk Protection | Oryx Labs",
+      "title": "ORYXLABS",
+      "type": "Article",
+      "description": "Secure your digital assets with Oryx Labs. We provide advanced cybersecurity and risk protection solutions to safeguard your organization's critical data."
+    },
+    "first_seen": "2026-10-01T10:48:21+00:00",
+    "last_updated": "2026-10-01T10:48:21+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/powertech",
+    "slug": "powertech",
+    "name": "POWERTECH",
+    "cluster": "",
+    "description": "Explore POWERTECH's high-performance aero engines and propulsion systems for UAVs and defense. We offer advanced, reliable solutions for global aerospace.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/p145i"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/POWERTECH-EN.png.webp?itok=b2-RGy4c",
+        "alt": "POWERTECH",
+        "source": "content",
+        "local_path": "images/entities/powertech/47e882a76bdb7ee7.webp"
+      }
+    ],
+    "body_text": "POWERTECH Powertech provides sovereign manufacturing and procurement of world-class aircraft propulsion systems. View Products Powering Missions with Engine Excellence. Powertech designs, engineers and manufactures piston engines, expendable turbojet engines, and medium- and large-size turbofan engines. Powertech is the EDGE Group’s centre of excellence for propulsion technologies . The company designs, engineers and manufactures piston engines, expendable turbojet engines, and medium- and large-size turbofan engines for EDGE Group platforms and systems, including fixed- and rotary-wing UAVs and missiles. In addition to producing propulsion system, we also qualify and procure high-quality, high-performing engines to meet additional customer propulsion requirements Powertech’s international teams of deeply experienced industry professionals are building a strategic UAE sovereign engine manufacturing capability that supports regional and international stability and security by enabling effective air power projection for our customers. Our Capabilities Producing and procuring piston combustion, expendable turbojet, turbofan engines Engine test facilities Propulsion integration services Products Piston combustion engines Powertech P145i piston engine Powertech P145i WC piston engine Powertech P5i piston engine Powertech P18i-450 piston engine Expendable engines Powertech 400N turbojet engine Powertech 1000N short-life turbojet engine Powertech 1500N long-life turbojet engine Powertech 5500N low-bypass turbojet engine Facilities Powertech has one of the only engine test cell facilities of its kind in the region, capable of assessing piston combustion, expendable turbojet and medium- and large-size turbofan engines. This allows the company to qualify, assess and develop engines more quickly.",
+    "meta": {
+      "page_title": "Advanced Aircraft Propulsion Systems | Powertech",
+      "title": "POWERTECH",
+      "type": "Article",
+      "description": "Explore POWERTECH's high-performance aero engines and propulsion systems for UAVs and defense. We offer advanced, reliable solutions for global aerospace."
+    },
+    "first_seen": "2026-10-01T10:48:25+00:00",
+    "last_updated": "2026-10-01T10:48:25+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/remaya",
+    "slug": "remaya",
+    "name": "TESTING READINESS. DELIVERING CAPABILITIES.",
+    "cluster": "",
+    "description": "Discover Remaya's world-class military-grade shooting ranges and training solutions. We offer advanced live-fire facilities for defense and security.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/Remaya-English-Colour.png.webp?itok=1nioIHQr",
+        "alt": "Remaya EN",
+        "source": "content",
+        "local_path": "images/entities/remaya/6ee670f62bf25bf4.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/remaya.jpg.webp?itok=9yw0lnsS",
+        "alt": "Remaya Abu Dhabi, UAE - Military Grade Shooting Range Developer",
+        "source": "content"
+      }
+    ],
+    "body_text": "TESTING READINESS. DELIVERING CAPABILITIES. REMAYA is a global provider of advanced test and evaluation services and munitions support services that help clients achieve mission-critical readiness. View Products About Us REMAYA takes a flexible and agile approach to supporting defence and civilian clients in strengthening operational and weapons performance. From small-arms range advisory and management, to test and evaluation programme management, to deployable test ranges and explosives and munitions safety support, we help build client capabilities. Our expert engineering teams and advisors work together to provide safety-first, mission-focused solutions to our clients’ toughest challenges. From complex test and evaluation programmes to highly customised site- and weapons-specific requirements, we deliver with precision to client specifications, whether in the UAE or any location globally. Core Capabilities Test engineering Test programme management Deployable test range “in-theatre test and evaluation” Explosives safety management Test and evaluation range management Small-arms range design advisory services Key Advantages Tailored solutions Highly flexible provider Close collaboration with clients Fast and efficient delivery and deployment Strong government-to-government relations Services We operate an agile service model designed to give our expert engineering teams and advisors the resources and flexibility to understand each client’s requirements and deliver a tailored solution, regardless of complexity to their location in the UAE or around the world. Test Engineering We support clients with the crucial test engineering component of live-fire test and evaluation programmes, including across multi-domain platforms and systems. From trials design to data analysis and compliance, we help you avoid pitfalls and maximise the value of your test and evaluation activities. Areas covered: Trials Design. Planning complex multi-domain trials to deliver critical trials data needed to verify and validate platform or system performance. Trials Data Analysis. Delivering fused, edited or raw trials data with mobile instrumentation systems in accordance with a client’s specified format and standards. Compliance Management. Ensuring adherence to recognised international test protocols, i.e., MIL-STD-810H, STANAG 4569. Test Programme Management Working closely with clients early in the test and evaluation development cycle, we offer specialist advice and in-built considerations to help deliver an effective programme. End-to-End Test and Evaluation Lifecycle Management. Advising and guiding clients on everything from identifying test and evaluation requirements to developing effective plans for each product or system. Safety Case Development. Helping clients establish and document the safety case and risk mitigation strategies required for hazardous trials operations. Verification and Validation. Designing test methodologies and identifying requirements that will effectively capture critical test data to assess whether a platform or system meets its required performance standards. Deployable Test Range: In-Theatre Test and Evaluation We programme and deploy personnel, instrumentation and supporting services to client locations around the world, including ‘pop-up’ test ranges. Global Reach. Two fully staffed, fully independent test engineering teams ready to deploy anywhere in the UAE or around the world. Flexible Logistics. Palletised equipment can be transported via military or civilian aircraft. Minimal support required in host country. Mobile Instrumentation. Providing high-fidelity measurement via mobile instrumentation, including EO-IR tracking, data acquisition systems, and trajectory trackers. Test Range Deconfliction. Site reconnaissance and selection, range weapon danger areas calculation and clearance. Mobile Test Support Infrastructure. Shelters, storage and personnel support deployed to facilitate trials operations. Explosives Safety Management Everything we do begins with safety, so we provide exceptional advisory and support to clients conducting hazardous live-fire test operations or other activities involving munitions and explosives. Live Munitions Trials Planning. Planning, deconflicting and overseeing the safe handling and deployment of live munitions and explosives during test and evaluation trials. Regulatory Compliance. Guiding clients and ensuring compliance with applicable laws and standards regarding the movement, storage and handling of explosives. Explosives Integration. Providing warhead and platform explosives integration services for clients conducting test and evaluation trials. Explosive Ordnance Disposal. Deploying alongside our mobile engineering teams to provide in-theatre EOD capabilities during trials. De-Militarisation. Training on de-militarisation operations. Test and Evaluation Range Management We operate ( XRANGE ) a world-class test and evaluation range in the UAE and bring that deep experience to help clients develop their own sovereign test and evaluation capabilities. This includes the design, operation, maintenance, and investment in military and civilian test ranges. Test Range Establishment. Supporting government or civilian clients in establishing sovereign-owned and operated test and evaluation capabilities Test Range Modernisation. Developing and upgrading existing test range capabilities to meet local industry or government requirements. Test Range Governance. Commercial, administrative and safety management of range operations under a GOCO or managed service model. Small-Arms Range Design Advisory Services We have a legacy of small-arms range expertise and leverage that operational knowledge to support clients in planning and developing military and civilian small-arms ranges. Requirements Management. Helping clients define requirements and use cases for multi-calibre indoor and outdoor small-arms ranges. Lifecycle Range Support. Support from concept design through to final design for new facilities, and modification and upgrades to existing facilities. Independent and Impartial Advice. For selection of ballistic protection solutions, target systems, safety and incident reviews, and the development of range safety policies. Range Inspection. Routine or periodic inspections and maintenance reviews in accordance with UAE standards.",
+    "meta": {
+      "page_title": "Remaya: Military-Grade Shooting Ranges & Training",
+      "title": "REMAYA",
+      "type": "Article",
+      "description": "Discover Remaya's world-class military-grade shooting ranges and training solutions. We offer advanced live-fire facilities for defense and security."
+    },
+    "first_seen": "2026-10-01T10:48:30+00:00",
+    "last_updated": "2026-10-01T10:48:30+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/secure-intelligence-systems",
+    "slug": "secure-intelligence-systems",
+    "name": "Mission-critical security for wireless, networked and other communication systems, and talent augmentation to support the success of high-stakes operations.",
+    "cluster": "",
+    "description": "The Secure Intelligence Systems cluster delivers mission-critical security for wireless, networked and other communication systems and provides.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/bg-header-intelligence.jpg.webp?itok=ZhOL6us5",
+        "alt": "bg-header-intelligence",
+        "source": "content",
+        "local_path": "images/entities/secure-intelligence-systems/28e64cf72f786c56.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2022-08/bg-header-intelligence.jpg.webp?itok=x7OZvpRG",
+        "alt": "bg-header-intelligence",
+        "source": "content"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/large/public/2026-07/secure-intelligence-systems.png.webp?itok=5Pqzme6l",
+        "alt": "SECURE INTELLIGENCE SYSTEMS",
+        "source": "content",
+        "local_path": "images/entities/secure-intelligence-systems/245bf16faf984d91.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/large/public/2025-02/Beacon%20Red.webp?itok=WYKxhbte",
+        "alt": "beacon red",
+        "source": "content",
+        "local_path": "images/entities/secure-intelligence-systems/bab388e71bbc4fe0.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/large/public/2025-02/HORIZON.webp?itok=MKK1UIz8",
+        "alt": "Horizon",
+        "source": "content",
+        "local_path": "images/entities/secure-intelligence-systems/c9d9f87252f60b0c.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/large/public/2025-02/KATIM.webp?itok=RKhtJI-x",
+        "alt": "Katim",
+        "source": "content",
+        "local_path": "images/entities/secure-intelligence-systems/545b9e27c7ccd9ec.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/large/public/2025-02/ORYXLABS.webp?itok=rUNJdeEQ",
+        "alt": "Oryx",
+        "source": "content",
+        "local_path": "images/entities/secure-intelligence-systems/52529def3fc443b9.webp"
+      }
+    ],
+    "body_text": "SECURE INTELLIGENCE SYSTEMS Mission-critical security for wireless, networked and other communication systems, and talent augmentation to support the success of high-stakes operations. The Secure Intelligence Systems cluster delivers mission-critical security for wireless, networked and other communication systems and provides strategic talent augmentation solutions. WHAT WE DO Commanding radio frequencies and related communications bands, whether to obscure, disable or confound an adversary, is essential in today’s world of unmanned and autonomous threats. Likewise, providing cybersecurity for enterprises, governments and critical infrastructure is essential in our fully connected world. We also are in an environment where identifying, hiring and upskilling talent is essential to mission success, whether they are elite cadres ready to tackle national security challenges or pilots and maintenance technicians ensuring that rotary-wing aircraft fly successful sorties every time. Our Secure Intelligence Systems cluster addresses these needs with a range of solutions and services to help clients build the human capabilities, the hardware assets, the RF dominance, and the cyber resilience to thrive in a complex and ever-changing world. OUR CAPABILITIES RF threat detection, suppression and neutralisation Secure communications hardware and software Cybersecurity SaaS solutions National security workforce augmentation Rotary-wing operator and maintenance training OUR COMPANIES BEACON RED provides end-to-end training to the UAE national security establishment. Learn More View Products HORIZON offers standard and bespoke helicopter training to civilian, commercial and military operators across the MENA region. Learn More View Products KATIM is a leader in the development of innovative secure communication products and solutions for governments and businesses. Learn More View Products ORYXLABS provides advanced digital solutions that enable enterprises to monitor, protect and improve their networked environments. Learn More View Products",
+    "meta": {
+      "page_title": "SECURE INTELLIGENCE SYSTEMS | EDGE",
+      "title": "SECURE INTELLIGENCE SYSTEMS",
+      "type": "Article",
+      "description": "The Secure Intelligence Systems cluster delivers mission-critical security for wireless, networked and other communication systems and provides."
+    },
+    "first_seen": "2026-10-01T10:48:39+00:00",
+    "last_updated": "2026-10-01T10:48:39+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/siatt",
+    "slug": "siatt",
+    "name": "SIATT",
+    "cluster": "",
+    "description": "Discover SIATT’s advanced smart munitions and weapon systems. We provide high-tech, high-precision defense solutions tailored for modern tactical needs.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/mansup",
+      "https://edgegroup.ae/solutions/mansup-er",
+      "https://edgegroup.ae/solutions/max-12-ac"
+    ],
+    "images": [],
+    "body_text": "SIATT SIATT designs and manufactures next-generation smart munitions and other high-tech electronics and subsystems. Smart Innovations. Precision Munitions. SIATT is a specialist designer and manufacturer of smart munitions and advanced onboard components and electronics. Headquartered in Brazil, Sistemas Integrados de Alto Teor Tecnológico (SIATT) is an international manufacturer of next-generation smart munitions and other high-tech electronics and subsystems, including guidance, control, targeting and communication. With additional expertise in testing and systems integration across the defence and aerospace sectors, SIATT is focused on developing technology-enriched, advanced weapons systems for air, sea and land deployment. View website Our capabilities Design, modelling, and testing to certification, production and technical support of smart weapons (missiles, guided bombs) Smart weapons systems integration into air, land and sea platforms Subsystems expertise: radars, sensors, and avionics systems and equipment Platforms MANSUP surface-launched anti-ship missile MANSUP-ER extended-range surface-launched anti-ship missile MSS 1.2 AC ground-launched anti-tank missile Services Product testing and evaluation Environmental testing Electronics prototyping and design",
+    "meta": {
+      "page_title": "Advanced Smart Munitions and Weapon Systems | SIATT",
+      "title": "SIATT",
+      "type": "Article",
+      "description": "Discover SIATT’s advanced smart munitions and weapon systems. We provide high-tech, high-precision defense solutions tailored for modern tactical needs."
+    },
+    "first_seen": "2026-10-01T10:48:43+00:00",
+    "last_updated": "2026-10-01T10:48:43+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/sign4l",
+    "slug": "sign4l",
+    "name": "CRITICAL DEFENCE, OPERATIONAL CONFIDENCE",
+    "cluster": "",
+    "description": "Explore SIGN4L's leading electronic warfare and intelligence solutions. We provide advanced EM spectrum superiority and protection for modern defense.",
+    "website": "",
+    "product_urls": [
+      "https://edgegroup.ae/solutions/v-protect",
+      "https://edgegroup.ae/solutions/navcontrol"
+    ],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/Sign4L-EN.png.webp?itok=xMRyGAbV",
+        "alt": "Sign4L",
+        "source": "content",
+        "local_path": "images/entities/sign4l/d77e01010dd81046.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2022-08/sign4l.jpg.webp?itok=cHAvv8DV",
+        "alt": "SIGN4L UAE - Electronic Warfare Intelligence Solutions",
+        "source": "content"
+      }
+    ],
+    "body_text": "CRITICAL DEFENCE, OPERATIONAL CONFIDENCE SIGN4L is the leading provider of electronic warfare and intelligence solutions in the UAE. We develop solutions for defence and security forces in Integrated electronic warfare technologies, Aircraft electronic survivability systems, Intelligence, surveillance, target acquisition and reconnaissance (ISTAR) sensors View Products Electronic warfare (EW) technologies are rapidly establishing themselves as critical components in the modern battlespace. Providing defence and security forces with cutting-edge capabilities, SIGN4L enables its clients to achieve superiority in the electromagnetic (EM) spectrum throughout their military and intelligence missions. Part of the Electronic Warfare & Intelligence (EW&I) cluster within EDGE, SIGN4L is the UAE-based leader in developing such solutions and one of the few in the region. We enable our clients to confidently defend and control the EM spectrum and degrade their opponents' EM capacity, ensuring mission success. SIGN4L pioneers sophisticated and innovative technology and provides clients with customised procurement, configuration, deployment, and servicing capabilities for their unique organisational and operational requirements. From electronic camouflage and concealment to guaranteeing electronic clarity across platforms, our solutions cover a broad range of EW systems suitable for active defence, offence, and situational awareness purposes. Headquartered in Abu Dhabi, we develop flexible, adaptive, and dependable EW&I technologies. In addition, we provide lifecycle support in three primary areas: integrated electronic warfare solutions; aircraft electronic survivability systems; and intelligence, surveillance, target acquisition, and reconnaissance (ISTAR) sensors for maintaining battle-space awareness and superiority. SUPERIORITY ACROSS THE SPECTRUM As one of the leading EW solutions providers in UAE, SIGN4L supplies EM or directed energy weapons for degrading, disrupting, or rejecting the opposing troops' communications, targeting, and navigation. These electronic attack technologies involve threat analysis and response, along with countermeasures such as radio frequency (RF) weapons, spoofing, lasers, signal jamming, and any combination thereof to successfully neutralise the threat. Our EW solutions can be used to conceal or spoof the position of troops and safeguard personnel, platforms, and assets against RF-equipped explosive devices. V-PROTECT RF COMMUNICATION JAMMING SYSTEM V-Protect is a state-of-the-art mobile active and reactive high-power jamming system, enabling blocking of all common terrestrial radio frequency (RF) signal technologies as well as portable SATCOM equipment. Due to ever-evolving global threats, SIGN4L has developed leading-edge technologies to counter RF controlled devices. Designed and built in the UAE, V-Protect provides seamless and adaptable protection across relevant frequency bands and technologies. Fitted onto a standard SUV, the system is rapidly deployable and efficiently operated for a multirole applications. DISABLING ATTACKS, SECURING DEFENCE As one of the top EW solutions providers, SIGN4L develops systems to support the electronic protection of a country’s personnel and equipment while ensuring tactical and strategic decision-making. These systems include technologies for target acquisition, high accuracy warning systems, and state-of-the-art countermeasure systems. To protect client targeting, navigation, and communication systems from hostile threats, we deliver solutions that strengthen both offensive target acquisition and incoming warning systems. These technologies are especially effective at stopping radar or other sensors from jamming and facilitating a smooth transfer to secure, unjammed frequencies. Additionally, our systems include electronic and thermal defences against incoming threats, such as heat-seeking missiles. NAVCONTROL-G NavControl-G is a sophisticated spoofing system that emits counterfeit GPS signals that mimic legitimate ones in order to generate an alternative path and safely mitigate the threat of hostile UAVs. Designed and built in the UAE, NavControl-G takes control of target UAVs, safeguarding sensitive and protected areas. Encased in a shock-proof container, the system can be seamlessly integrated across multiple configurations - either in fixed locations or rapidly deployed on the field when required. RELIABLE ELECTRONIC SUPPORT SIGN4L's broad portfolio of radar and EW systems helps clients successfully detect, identify, and track EM energy sources, enhancing their understanding of operational forces and assets in the battle area. Thus, troops can spot threats, collect data, and plan for future operations. To provide clients with this situational awareness capability, SIGN4L incorporated electronic intelligence assets (passive and active radar) and communication intelligence assets (GSM, UHF, and VHF radios and electro-optical and infrared sensors) into their radar systems. UNRIVALLED INTELLIGENCE As technologies in the EM space constantly evolve, defence and security forces have to tackle emerging threats and navigate a world of ever-changing requirements and risks. That is why research and innovation is fundamental to how we stay ahead of of the adversary and at the forefront of new opportunities. In a progressively complex environment, SIGN4L continues to create EW&I solutions that deliver the highest levels of protection, information dominance, and situational awareness. Our sophisticated methods and integrated technologies ensure that government legal interception and homeland security organisations have an edge over their competitors. With research at the heart of its service, SIGN4L guarantees that its clients can take advantage of the most innovative and advanced EW systems on the market. Our staff is unmatched in terms of developing cutting-edge technology and continuously delivering support and capabilities across numerous military platforms when and where it’s required. DEVELOPING NEXT GENERATION ELECTRONIC WARFARE At SIGN4L, we formulated a rigorous and disciplined cycle of research and development for the efficient monitoring, analysis, and mitigation of emerging hazards. Our engineering and development teams specialise in sophisticated RF digital sensors, RF propagation, RF signal processing, threat detection and warning, and secure communications in disputed settings. Additionally, we evaluate possibilities for our clients in the development of converged, multi-role systems, to allow for the overlapping domains of cyber and electronic warfare. By establishing and maintaining outstanding connections with leading global technology providers, we guarantee that our clients have access to the most leading-edge technologies and solutions.",
+    "meta": {
+      "page_title": "SIGN4L: Leading Electronic Warfare & Intelligence Solutions",
+      "title": "SIGN4L",
+      "type": "Article",
+      "description": "Explore SIGN4L's leading electronic warfare and intelligence solutions. We provide advanced EM spectrum superiority and protection for modern defense."
+    },
+    "first_seen": "2026-10-01T10:48:48+00:00",
+    "last_updated": "2026-10-01T10:48:48+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/technologies-industrialisation",
+    "slug": "technologies-industrialisation",
+    "name": "Accelerating innovation in cutting-edge sovereign capabilities",
+    "cluster": "",
+    "description": "The Technologies & Industrialisation cluster delivers tailored, high-impact solutions to strategic end users.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2024-08/ti-banner_0.webp?itok=BXUuOeQc",
+        "alt": "banner",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/43fccc88a4bc5976.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/2024-08/ti-what-we-do.png",
+        "alt": "what we do",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/e6cfb626c6342b8d.png"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2024-08/ti-mission-and-vision.webp?itok=TgNuMvI0",
+        "alt": "mission",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/c37006a650fa8e79.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/innovation.webp?itok=N33Le2RI",
+        "alt": "Innovation",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/77fde132bd916337.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/teamwork.webp?itok=NBm3A3Kk",
+        "alt": "Teamwork",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/5e534c9ca800f97e.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/integrity.webp?itok=NAWqs0kE",
+        "alt": "Integrity",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/a35d3b676defd60f.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/collaboration.webp?itok=CsfiafP-",
+        "alt": "Collaboration",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/93459d5e9d34fb85.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/excellence.webp?itok=xO52ksrJ",
+        "alt": "Excellence",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/762d5e9cdadfbfc6.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/professionalism.webp?itok=-n5laXhc",
+        "alt": "Professionalism",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/30bfd30fec9a968f.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/reliability.webp?itok=GRnnfhJr",
+        "alt": "Reliability",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/8ec310e8ec8b6bf9.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/responsiveness.webp?itok=9GtokQQd",
+        "alt": "Responsiveness",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/a41a79459f5abc37.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2024-08/ai-listing.webp?itok=QvPzzRVf",
+        "alt": "AI",
+        "source": "content",
+        "local_path": "images/entities/technologies-industrialisation/ce17a097321135e3.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/2024-08/ai.webp",
+        "alt": "AI",
+        "source": "content"
+      }
+    ],
+    "body_text": "TECHNOLOGIES & INDUSTRIALISATION Accelerating innovation in cutting-edge sovereign capabilities The Technologies & Industrialisation cluster delivers tailored, high-impact solutions to strategic end users. WHAT WE DO EDGE Group is a technology innovator and solutions provider that leverages today’s most powerful technologies, including AI, to transform our offerings across all domains for defence and civilian customers. The Technologies & Industrialisation cluster consolidates these for streamlined delivery of more tailored solutions. Reflecting our technology-first approach, we organise expertise around strategic capabilities and themes, in distinct Centres of Excellence to better identify overlapping opportunities across the breadth of EDGE Group operations and cross-pollinate business and product solutions. The result: in this digital-native environment, our customers gain rapid access to the most advanced and effective solutions, regardless of sector or domain. Reflecting the innovation and technology focus embedded in our DNA, and guided by a Board of Advisors of subject-matter experts across the Group, the Centres drive our technology roadmaps to align current progress with future needs. MISSION AND VISION MISSION To speed the development of key technologies for faster delivery of the most advanced and effective products. VISION To build preeminent global centres of excellence addressing high-impact technologies critical to future human security needs. VALUES INNOVATION that amazes. TEAMWORK that delivers. INTEGRITY in every interaction. COLLABORATION that adds value. EXCELLENCE in everything we do. PROFESSIONALISM across all aspects. RELIABILITY in delivery, quality and innovation. RESPONSIVENESS to timelines and evolving requirements. OUR TECHNOLOGY AREAS ARTIFICIAL INTELLIGENCE OUR CENTRES OF EXCELLENCE ARTIFICIAL INTELLIGENCE Just as AI is incorporated into consumer products such as phones and smart speakers, so too is it becoming an essential component of products and systems deployed by public safety, national security, and defence forces. From autonomous systems to logistics and maintenance, AI has become a powerful enabler. The EDGE Artificial Intelligence Centre of Excellence pursues advanced research, development and deployment of AI capabilities across Group products and systems. It also fosters AI-based engineering and AI deployment in R&D. The opaque nature of AI systems makes technology sovereignty crucial for the UAE Armed Forces, UAE security forces, and allied-nation customers. The AI CoE ensures this throughout the design, engineering, training, and development phases of AI algorithms and software.",
+    "meta": {
+      "page_title": "TECHNOLOGIES & INDUSTRIALISATION | EDGE",
+      "title": "TECHNOLOGIES & INDUSTRIALISATION",
+      "type": "Article",
+      "description": "The Technologies & Industrialisation cluster delivers tailored, high-impact solutions to strategic end users."
+    },
+    "first_seen": "2026-10-01T10:49:04+00:00",
+    "last_updated": "2026-10-01T10:49:04+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/technology-innovation",
+    "slug": "technology-innovation",
+    "name": "Accelerating innovation in cutting-edge sovereign capabilities",
+    "cluster": "",
+    "description": "The Technologies & Industrialisation cluster delivers tailored, high-impact solutions to strategic end users.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/banner_1460x478/public/2024-08/ti-banner_0.webp?itok=BXUuOeQc",
+        "alt": "banner",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/43fccc88a4bc5976.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/2024-08/ti-what-we-do.png",
+        "alt": "what we do",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/e6cfb626c6342b8d.png"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/featurette/public/2024-08/ti-mission-and-vision.webp?itok=TgNuMvI0",
+        "alt": "mission",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/c37006a650fa8e79.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/innovation.webp?itok=N33Le2RI",
+        "alt": "Innovation",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/77fde132bd916337.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/teamwork.webp?itok=NBm3A3Kk",
+        "alt": "Teamwork",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/5e534c9ca800f97e.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/integrity.webp?itok=NAWqs0kE",
+        "alt": "Integrity",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/a35d3b676defd60f.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/collaboration.webp?itok=CsfiafP-",
+        "alt": "Collaboration",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/93459d5e9d34fb85.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/excellence.webp?itok=xO52ksrJ",
+        "alt": "Excellence",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/762d5e9cdadfbfc6.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/professionalism.webp?itok=-n5laXhc",
+        "alt": "Professionalism",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/30bfd30fec9a968f.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/reliability.webp?itok=GRnnfhJr",
+        "alt": "Reliability",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/8ec310e8ec8b6bf9.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/card_509x605/public/2024-08/responsiveness.webp?itok=9GtokQQd",
+        "alt": "Responsiveness",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/a41a79459f5abc37.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/small_420x420/public/2024-08/ai-listing.webp?itok=QvPzzRVf",
+        "alt": "AI",
+        "source": "content",
+        "local_path": "images/entities/technology-innovation/ce17a097321135e3.webp"
+      },
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/2024-08/ai.webp",
+        "alt": "AI",
+        "source": "content"
+      }
+    ],
+    "body_text": "TECHNOLOGIES & INDUSTRIALISATION Accelerating innovation in cutting-edge sovereign capabilities The Technologies & Industrialisation cluster delivers tailored, high-impact solutions to strategic end users. WHAT WE DO EDGE Group is a technology innovator and solutions provider that leverages today’s most powerful technologies, including AI, to transform our offerings across all domains for defence and civilian customers. The Technologies & Industrialisation cluster consolidates these for streamlined delivery of more tailored solutions. Reflecting our technology-first approach, we organise expertise around strategic capabilities and themes, in distinct Centres of Excellence to better identify overlapping opportunities across the breadth of EDGE Group operations and cross-pollinate business and product solutions. The result: in this digital-native environment, our customers gain rapid access to the most advanced and effective solutions, regardless of sector or domain. Reflecting the innovation and technology focus embedded in our DNA, and guided by a Board of Advisors of subject-matter experts across the Group, the Centres drive our technology roadmaps to align current progress with future needs. MISSION AND VISION MISSION To speed the development of key technologies for faster delivery of the most advanced and effective products. VISION To build preeminent global centres of excellence addressing high-impact technologies critical to future human security needs. VALUES INNOVATION that amazes. TEAMWORK that delivers. INTEGRITY in every interaction. COLLABORATION that adds value. EXCELLENCE in everything we do. PROFESSIONALISM across all aspects. RELIABILITY in delivery, quality and innovation. RESPONSIVENESS to timelines and evolving requirements. OUR TECHNOLOGY AREAS ARTIFICIAL INTELLIGENCE OUR CENTRES OF EXCELLENCE ARTIFICIAL INTELLIGENCE Just as AI is incorporated into consumer products such as phones and smart speakers, so too is it becoming an essential component of products and systems deployed by public safety, national security, and defence forces. From autonomous systems to logistics and maintenance, AI has become a powerful enabler. The EDGE Artificial Intelligence Centre of Excellence pursues advanced research, development and deployment of AI capabilities across Group products and systems. It also fosters AI-based engineering and AI deployment in R&D. The opaque nature of AI systems makes technology sovereignty crucial for the UAE Armed Forces, UAE security forces, and allied-nation customers. The AI CoE ensures this throughout the design, engineering, training, and development phases of AI algorithms and software.",
+    "meta": {
+      "page_title": "TECHNOLOGIES & INDUSTRIALISATION | EDGE",
+      "title": "TECHNOLOGIES & INDUSTRIALISATION",
+      "type": "Article",
+      "description": "The Technologies & Industrialisation cluster delivers tailored, high-impact solutions to strategic end users."
+    },
+    "first_seen": "2026-10-01T10:49:19+00:00",
+    "last_updated": "2026-10-01T10:49:19+00:00"
   },
   {
     "url": "https://edgegroup.ae/terms-conditions",
@@ -171,5 +1348,50 @@
     },
     "first_seen": "2026-07-03T17:50:56+00:00",
     "last_updated": "2026-09-01T09:14:15+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/trust",
+    "slug": "trust",
+    "name": "TRUST",
+    "cluster": "",
+    "description": "Discover Trust's advanced defence solutions and mission readiness services. We provide innovative technology and strategic support for global security.",
+    "website": "",
+    "product_urls": [],
+    "images": [
+      {
+        "url": "https://webfiles.edgegroup.ae/s3fs-public/styles/max_325x325/public/2026-05/TRUST-EN.png.webp?itok=wFDsoROf",
+        "alt": "TRUST",
+        "source": "content",
+        "local_path": "images/entities/trust/ea2494234f4dd124.webp"
+      }
+    ],
+    "body_text": "TRUST TRUST provides the UAE Armed Forces with fulfilment and readiness solutions in tactical equipment, spare parts, and engineering and services. Peak Preparation. Peak Performance. TRUST provides fulfilment and readiness solutions to the UAE Armed Forces in the key areas of tactical equipment, spare parts, and engineering and services. For more than 20 years, TRUST has provided the UAE Armed Forces and national security services with reliable, world-class and premium equipment, technologies, supplies and services. Our in-house experts bring decades of knowledge in all key defence and security sectors, resulting in an unmatched one-stop-shop to meet requirements as diverse as uniforms and unmanned systems procurement, MRO, and systems integration engineering. Our customers know that TRUST delivers solutions that augment operations and put personnel in a position to implement their missions with peak performance. Who We Are Established in 2004, TRUST serves customers in three main areas: tactical equipment, spare parts, and engineering and services. We provide these capabilities to the UAE’s most strategic entities, including UAE Land Forces, Navy and Air Force; Medical Command; Intelligence Command; Joint Aviation Command; Presidential Guard; Critical Infrastructure and Coastal Protection Authority, and Ministry of Interior. Our Capabilities We provide customers with bespoke consulting across the full range of fulfilment and readiness enablement. R&D and engineering : innovating best-in-class technical solutions for a wide range of wheeled and tracked platforms, alongside tactical vehicular support systems. Tactical equipment : securing high-performance breaching kits, diving equipment, ladders, and more. Ammunition : procuring a vast arsenal, including small-calibre NATO, sniper ammunition, and aerial bombs. Weapons and accessories : ensuring forces have dependable, state-of-the-art weapons, enhanced with cutting-edge accessories. Vehicle systems : delivering both platforms (from tactical to special-purpose vehicles) and systems (turrets and armour solutions). Maritime and air systems : offering top-notch maritime vessels and aerial platforms. Unmanned systems : delivering world-class land, air, surface and sub-sea autonomous and remotely operated vehicles. C4ISR/EW : elevating command and intelligence capabilities with advanced communication systems, sensors, and software. Protection and CBRN : securing personnel safety with best-in-class protective gear and solutions for even the most dangerous threats. Uniforms and clothing : outfitting teams with high-performance clothing and accessories. Medical : prioritizing health with essential medical supplies and services. Maintenance, repair and overhaul : ensuring operational longevity with trusted maintenance, repair and overhaul services, and spare parts. Armour protection upgrades : enhancing vehicle resilience with top-grade armour protection.",
+    "meta": {
+      "page_title": "Trust: Advanced Defence Solutions and Readiness Services",
+      "title": "TRUST",
+      "type": "Article",
+      "description": "Discover Trust's advanced defence solutions and mission readiness services. We provide innovative technology and strategic support for global security."
+    },
+    "first_seen": "2026-10-01T10:49:27+00:00",
+    "last_updated": "2026-10-01T10:49:27+00:00"
+  },
+  {
+    "url": "https://edgegroup.ae/xrange",
+    "slug": "xrange",
+    "name": "XRANGE",
+    "cluster": "",
+    "description": "Discover XRANGE, the premier multi-domain testing and evaluation facility. We offer advanced air, land, and sea trials to perfect your defense systems.",
+    "website": "https://xrangeuae.com/",
+    "product_urls": [],
+    "images": [],
+    "body_text": "XRANGE XRANGE is a state-of-the-art, multi-domain training, testing and evaluation range to perfect performance of platforms, systems and personnel. Advanced Testing. Perfected Performance. XRANGE is the region’s only state-of-the-art, multi-domain training, testing and evaluation range. XRANGE brings sophisticated, flexible, multi-domain training, testing and evaluation (TT&E) capabilities to the heart of the Middle East, Africa, and Central and South Asia region. Commercial and military customers can conduct complex, air, ground and maritime trials in a safe, secure and instrumented environment. Conventional munitions, such as bombs and rockets, and electronic warfare lasers and signal jamming can be tested with cutting-edge, high-precision, video and data acquisition systems. These are aided by multiple asset surveillance and tracking technologies, and advanced hemispheric tracking radars. For electronic warfare, passive RF monitoring creates a known RF environment to facilitate the scientific testing of these systems. We offer a comprehensive range of testing and training opportunities: Air testing Land testing Maritime testing Electronic warfare testing Environmental testing Close-quarters training View website Our Services Testing and evaluation trials planning services Trials range area provision Small arms-ranges consultancy Testing and evaluation instrumentation Pan-domain platform trials Range management and operations Turnkey testing and evaluation-range services support Testing and evaluation systems and infrastructure The Island RANGE is located on a highly secure, uninhabited island approximately 8km off the Abu Dhabi coastline and a 100km drive from Abu Dhabi city. The island is 35km by 15km, enabling a land danger area of 355km2, inclusive of a 3.8-km-long, 60-metre-wide runway. The air danger area is permanently closed to 8,000ft and can be extended to 40,000ft. A 50km2 sea danger area enables shallow- and deep-water testing, training and rehearsal. Operational year round and ideal for hot weather trials due to its arid, humid and dusty environment, the fully functional runway and on-island customs clearance mean customers can fly directly into and out of XRANGE, simplifying logistics. Our advanced instrumentation Photography systems Phantom® high-speed digital video system Flash X-Ray Trajectory follower and muzzle velocity radar Flight test systems Digital beamforming telemetry antenna Flight termination system Electro-optical and infrared tracker (EO-IR) Flight following radar Bespoke test facilities Passive RF monitoring ensures no mutual interference 3km range test track Static rocket test fire centre Ground targets (static and dynamic)",
+    "meta": {
+      "page_title": "XRANGE: Advanced Multi-Domain Testing & Evaluation Range",
+      "title": "XRANGE",
+      "type": "Article",
+      "description": "Discover XRANGE, the premier multi-domain testing and evaluation facility. We offer advanced air, land, and sea trials to perfect your defense systems."
+    },
+    "first_seen": "2026-10-01T10:49:31+00:00",
+    "last_updated": "2026-10-01T10:49:31+00:00"
   }
 ]
